@@ -1,0 +1,9794 @@
+[
+  {
+    "task": "00004",
+    "base": 0,
+    "gif": "00004/00004_success_base00000.gif",
+    "xy": 1.0,
+    "z": 7.95,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 1,
+    "gif": "00004/00004_success_base00001.gif",
+    "xy": 0.74,
+    "z": 7.45,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 2,
+    "gif": "00004/00004_success_base00002.gif",
+    "xy": 0.69,
+    "z": 7.29,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 3,
+    "gif": "00004/00004_success_base00003.gif",
+    "xy": 0.19,
+    "z": 7.87,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 4,
+    "gif": "00004/00004_success_base00004.gif",
+    "xy": 0.48,
+    "z": 7.53,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 5,
+    "gif": "00004/00004_success_base00005.gif",
+    "xy": 0.37,
+    "z": 7.63,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 6,
+    "gif": "00004/00004_success_base00006.gif",
+    "xy": 0.64,
+    "z": 7.83,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 7,
+    "gif": "00004/00004_success_base00007.gif",
+    "xy": 0.49,
+    "z": 6.86,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 8,
+    "gif": "00004/00004_success_base00008.gif",
+    "xy": 0.66,
+    "z": 7.16,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 9,
+    "gif": "00004/00004_success_base00009.gif",
+    "xy": 0.76,
+    "z": 8.15,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 10,
+    "gif": "00004/00004_success_base00010.gif",
+    "xy": 0.21,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 11,
+    "gif": "00004/00004_success_base00011.gif",
+    "xy": 1.13,
+    "z": 7.64,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 12,
+    "gif": "00004/00004_success_base00012.gif",
+    "xy": 0.7,
+    "z": 6.98,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 13,
+    "gif": "00004/00004_success_base00013.gif",
+    "xy": 0.66,
+    "z": 7.4,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 14,
+    "gif": "00004/00004_success_base00014.gif",
+    "xy": 0.82,
+    "z": 8.05,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 15,
+    "gif": "00004/00004_success_base00015.gif",
+    "xy": 0.72,
+    "z": 7.36,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 16,
+    "gif": "00004/00004_success_base00016.gif",
+    "xy": 0.59,
+    "z": 7.78,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 17,
+    "gif": "00004/00004_success_base00017.gif",
+    "xy": 0.47,
+    "z": 7.86,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 18,
+    "gif": "00004/00004_success_base00018.gif",
+    "xy": 0.95,
+    "z": 7.67,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 19,
+    "gif": "00004/00004_success_base00019.gif",
+    "xy": 0.82,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 20,
+    "gif": "00004/00004_success_base00020.gif",
+    "xy": 0.29,
+    "z": 7.38,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 21,
+    "gif": "00004/00004_success_base00021.gif",
+    "xy": 1.21,
+    "z": 8.08,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 22,
+    "gif": "00004/00004_success_base00022.gif",
+    "xy": 1.19,
+    "z": 7.98,
+    "native": true
+  },
+  {
+    "task": "00004",
+    "base": 23,
+    "gif": "00004/00004_success_base00023.gif",
+    "xy": 0.81,
+    "z": 7.44,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 0,
+    "gif": "00007/00007_success_base00000.gif",
+    "xy": 0.5,
+    "z": 6.2,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 1,
+    "gif": "00007/00007_success_base00001.gif",
+    "xy": 0.26,
+    "z": 6.08,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 2,
+    "gif": "00007/00007_success_base00002.gif",
+    "xy": 0.82,
+    "z": 6.29,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 3,
+    "gif": "00007/00007_success_base00003.gif",
+    "xy": 1.33,
+    "z": 5.93,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 4,
+    "gif": "00007/00007_success_base00004.gif",
+    "xy": 0.49,
+    "z": 6.86,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 5,
+    "gif": "00007/00007_success_base00005.gif",
+    "xy": 0.88,
+    "z": 6.21,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 6,
+    "gif": "00007/00007_success_base00006.gif",
+    "xy": 0.6,
+    "z": 7.25,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 7,
+    "gif": "00007/00007_success_base00007.gif",
+    "xy": 1.84,
+    "z": 5.35,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 8,
+    "gif": "00007/00007_success_base00008.gif",
+    "xy": 0.19,
+    "z": 7.44,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 9,
+    "gif": "00007/00007_success_base00009.gif",
+    "xy": 1.03,
+    "z": 7.25,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 10,
+    "gif": "00007/00007_success_base00010.gif",
+    "xy": 0.68,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 11,
+    "gif": "00007/00007_success_base00011.gif",
+    "xy": 1.43,
+    "z": 5.37,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 12,
+    "gif": "00007/00007_success_base00012.gif",
+    "xy": 0.55,
+    "z": 7.58,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 13,
+    "gif": "00007/00007_success_base00013.gif",
+    "xy": 0.47,
+    "z": 7.01,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 14,
+    "gif": "00007/00007_success_base00014.gif",
+    "xy": 1.25,
+    "z": 6.97,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 15,
+    "gif": "00007/00007_success_base00015.gif",
+    "xy": 0.82,
+    "z": 6.5,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 16,
+    "gif": "00007/00007_success_base00016.gif",
+    "xy": 0.33,
+    "z": 5.86,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 17,
+    "gif": "00007/00007_success_base00017.gif",
+    "xy": 1.35,
+    "z": 7.48,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 18,
+    "gif": "00007/00007_success_base00018.gif",
+    "xy": 1.29,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 19,
+    "gif": "00007/00007_success_base00019.gif",
+    "xy": 0.73,
+    "z": 5.25,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 20,
+    "gif": "00007/00007_success_base00020.gif",
+    "xy": 0.53,
+    "z": 6.83,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 21,
+    "gif": "00007/00007_success_base00021.gif",
+    "xy": 1.05,
+    "z": 4.26,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 22,
+    "gif": "00007/00007_success_base00022.gif",
+    "xy": 0.92,
+    "z": 5.36,
+    "native": true
+  },
+  {
+    "task": "00007",
+    "base": 23,
+    "gif": "00007/00007_success_base00023.gif",
+    "xy": 0.76,
+    "z": 7.95,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 0,
+    "gif": "00014/00014_success_base00000.gif",
+    "xy": 0.41,
+    "z": 5.99,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 1,
+    "gif": "00014/00014_success_base00001.gif",
+    "xy": 0.17,
+    "z": 6.92,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 2,
+    "gif": "00014/00014_success_base00002.gif",
+    "xy": 0.24,
+    "z": 6.22,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 3,
+    "gif": "00014/00014_success_base00003.gif",
+    "xy": 0.48,
+    "z": 7.16,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 4,
+    "gif": "00014/00014_success_base00004.gif",
+    "xy": 0.43,
+    "z": 7.31,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 5,
+    "gif": "00014/00014_success_base00005.gif",
+    "xy": 0.26,
+    "z": 5.76,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 6,
+    "gif": "00014/00014_success_base00006.gif",
+    "xy": 0.57,
+    "z": 5.56,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 7,
+    "gif": "00014/00014_success_base00007.gif",
+    "xy": 0.27,
+    "z": 6.82,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 8,
+    "gif": "00014/00014_success_base00008.gif",
+    "xy": 0.45,
+    "z": 6.93,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 9,
+    "gif": "00014/00014_success_base00009.gif",
+    "xy": 0.36,
+    "z": 7.07,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 10,
+    "gif": "00014/00014_success_base00010.gif",
+    "xy": 0.19,
+    "z": 5.62,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 11,
+    "gif": "00014/00014_success_base00011.gif",
+    "xy": 0.94,
+    "z": 6.94,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 12,
+    "gif": "00014/00014_success_base00012.gif",
+    "xy": 0.36,
+    "z": 7.39,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 13,
+    "gif": "00014/00014_success_base00013.gif",
+    "xy": 0.56,
+    "z": 5.63,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 14,
+    "gif": "00014/00014_success_base00014.gif",
+    "xy": 0.56,
+    "z": 6.24,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 15,
+    "gif": "00014/00014_success_base00015.gif",
+    "xy": 0.63,
+    "z": 7.42,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 16,
+    "gif": "00014/00014_success_base00016.gif",
+    "xy": 0.41,
+    "z": 5.7,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 17,
+    "gif": "00014/00014_success_base00017.gif",
+    "xy": 1.57,
+    "z": 6.86,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 18,
+    "gif": "00014/00014_success_base00018.gif",
+    "xy": 0.68,
+    "z": 7.14,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 19,
+    "gif": "00014/00014_success_base00019.gif",
+    "xy": 0.36,
+    "z": 7.74,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 20,
+    "gif": "00014/00014_success_base00020.gif",
+    "xy": 0.25,
+    "z": 5.72,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 21,
+    "gif": "00014/00014_success_base00021.gif",
+    "xy": 0.19,
+    "z": 6.36,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 22,
+    "gif": "00014/00014_success_base00022.gif",
+    "xy": 0.51,
+    "z": 6.16,
+    "native": true
+  },
+  {
+    "task": "00014",
+    "base": 23,
+    "gif": "00014/00014_success_base00023.gif",
+    "xy": 0.8,
+    "z": 6.41,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 0,
+    "gif": "00015/00015_success_base00000.gif",
+    "xy": 0.08,
+    "z": 9.83,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 1,
+    "gif": "00015/00015_success_base00001.gif",
+    "xy": 0.83,
+    "z": 10.28,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 2,
+    "gif": "00015/00015_success_base00002.gif",
+    "xy": 0.57,
+    "z": 9.47,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 4,
+    "gif": "00015/00015_success_base00004.gif",
+    "xy": 0.12,
+    "z": 9.47,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 5,
+    "gif": "00015/00015_success_base00005.gif",
+    "xy": 0.26,
+    "z": 9.73,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 7,
+    "gif": "00015/00015_success_base00007.gif",
+    "xy": 0.18,
+    "z": 8.51,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 8,
+    "gif": "00015/00015_success_base00008.gif",
+    "xy": 0.14,
+    "z": 8.87,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 9,
+    "gif": "00015/00015_success_base00009.gif",
+    "xy": 0.49,
+    "z": 9.2,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 11,
+    "gif": "00015/00015_success_base00011.gif",
+    "xy": 0.19,
+    "z": 9.59,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 14,
+    "gif": "00015/00015_success_base00014.gif",
+    "xy": 0.04,
+    "z": 10.15,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 17,
+    "gif": "00015/00015_success_base00017.gif",
+    "xy": 0.52,
+    "z": 9.89,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 18,
+    "gif": "00015/00015_success_base00018.gif",
+    "xy": 0.26,
+    "z": 9.68,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 22,
+    "gif": "00015/00015_success_base00022.gif",
+    "xy": 0.24,
+    "z": 9.73,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 23,
+    "gif": "00015/00015_success_base00023.gif",
+    "xy": 0.07,
+    "z": 11.05,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 24,
+    "gif": "00015/00015_success_base00024.gif",
+    "xy": 0.73,
+    "z": 6.19,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 25,
+    "gif": "00015/00015_success_base00025.gif",
+    "xy": 0.24,
+    "z": 9.71,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 26,
+    "gif": "00015/00015_success_base00026.gif",
+    "xy": 0.12,
+    "z": 10.05,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 27,
+    "gif": "00015/00015_success_base00027.gif",
+    "xy": 0.29,
+    "z": 9.25,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 28,
+    "gif": "00015/00015_success_base00028.gif",
+    "xy": 0.42,
+    "z": 11.12,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 30,
+    "gif": "00015/00015_success_base00030.gif",
+    "xy": 0.69,
+    "z": 6.54,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 31,
+    "gif": "00015/00015_success_base00031.gif",
+    "xy": 0.23,
+    "z": 10.38,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 32,
+    "gif": "00015/00015_success_base00032.gif",
+    "xy": 0.17,
+    "z": 10.08,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 33,
+    "gif": "00015/00015_success_base00033.gif",
+    "xy": 0.98,
+    "z": 9.15,
+    "native": true
+  },
+  {
+    "task": "00015",
+    "base": 36,
+    "gif": "00015/00015_success_base00036.gif",
+    "xy": 0.46,
+    "z": 9.53,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 0,
+    "gif": "00021/00021_success_base00000.gif",
+    "xy": 0.78,
+    "z": 3.7,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 1,
+    "gif": "00021/00021_success_base00001.gif",
+    "xy": 0.52,
+    "z": 5.94,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 2,
+    "gif": "00021/00021_success_base00002.gif",
+    "xy": 0.28,
+    "z": 3.86,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 3,
+    "gif": "00021/00021_success_base00003.gif",
+    "xy": 1.07,
+    "z": 5.13,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 4,
+    "gif": "00021/00021_success_base00004.gif",
+    "xy": 1.03,
+    "z": 5.74,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 5,
+    "gif": "00021/00021_success_base00005.gif",
+    "xy": 0.27,
+    "z": 3.62,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 6,
+    "gif": "00021/00021_success_base00006.gif",
+    "xy": 0.16,
+    "z": 4.43,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 7,
+    "gif": "00021/00021_success_base00007.gif",
+    "xy": 0.48,
+    "z": 4.9,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 8,
+    "gif": "00021/00021_success_base00008.gif",
+    "xy": 0.31,
+    "z": 6.01,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 9,
+    "gif": "00021/00021_success_base00009.gif",
+    "xy": 0.67,
+    "z": 4.27,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 10,
+    "gif": "00021/00021_success_base00010.gif",
+    "xy": 0.64,
+    "z": 4.99,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 11,
+    "gif": "00021/00021_success_base00011.gif",
+    "xy": 0.6,
+    "z": 6.42,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 12,
+    "gif": "00021/00021_success_base00012.gif",
+    "xy": 0.22,
+    "z": 7.46,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 13,
+    "gif": "00021/00021_success_base00013.gif",
+    "xy": 0.79,
+    "z": 5.39,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 14,
+    "gif": "00021/00021_success_base00014.gif",
+    "xy": 0.45,
+    "z": 5.42,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 15,
+    "gif": "00021/00021_success_base00015.gif",
+    "xy": 1.13,
+    "z": 6.69,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 16,
+    "gif": "00021/00021_success_base00016.gif",
+    "xy": 0.23,
+    "z": 6.66,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 17,
+    "gif": "00021/00021_success_base00017.gif",
+    "xy": 0.7,
+    "z": 5.35,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 18,
+    "gif": "00021/00021_success_base00018.gif",
+    "xy": 1.0,
+    "z": 6.56,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 19,
+    "gif": "00021/00021_success_base00019.gif",
+    "xy": 0.61,
+    "z": 6.32,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 20,
+    "gif": "00021/00021_success_base00020.gif",
+    "xy": 0.48,
+    "z": 6.83,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 21,
+    "gif": "00021/00021_success_base00021.gif",
+    "xy": 0.94,
+    "z": 5.76,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 22,
+    "gif": "00021/00021_success_base00022.gif",
+    "xy": 0.87,
+    "z": 4.69,
+    "native": true
+  },
+  {
+    "task": "00021",
+    "base": 23,
+    "gif": "00021/00021_success_base00023.gif",
+    "xy": 0.91,
+    "z": 5.23,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 0,
+    "gif": "00028/00028_success_base00000.gif",
+    "xy": 0.33,
+    "z": 7.17,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 1,
+    "gif": "00028/00028_success_base00001.gif",
+    "xy": 0.13,
+    "z": 7.64,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 2,
+    "gif": "00028/00028_success_base00002.gif",
+    "xy": 0.24,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 3,
+    "gif": "00028/00028_success_base00003.gif",
+    "xy": 0.32,
+    "z": 7.68,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 4,
+    "gif": "00028/00028_success_base00004.gif",
+    "xy": 0.23,
+    "z": 7.08,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 7,
+    "gif": "00028/00028_success_base00007.gif",
+    "xy": 0.32,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 8,
+    "gif": "00028/00028_success_base00008.gif",
+    "xy": 0.47,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 9,
+    "gif": "00028/00028_success_base00009.gif",
+    "xy": 0.99,
+    "z": 7.69,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 10,
+    "gif": "00028/00028_success_base00010.gif",
+    "xy": 0.08,
+    "z": 8.04,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 11,
+    "gif": "00028/00028_success_base00011.gif",
+    "xy": 0.58,
+    "z": 7.36,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 14,
+    "gif": "00028/00028_success_base00014.gif",
+    "xy": 0.52,
+    "z": 7.81,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 15,
+    "gif": "00028/00028_success_base00015.gif",
+    "xy": 0.9,
+    "z": 7.18,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 16,
+    "gif": "00028/00028_success_base00016.gif",
+    "xy": 0.35,
+    "z": 7.44,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 17,
+    "gif": "00028/00028_success_base00017.gif",
+    "xy": 0.43,
+    "z": 6.58,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 18,
+    "gif": "00028/00028_success_base00018.gif",
+    "xy": 0.2,
+    "z": 7.34,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 19,
+    "gif": "00028/00028_success_base00019.gif",
+    "xy": 0.58,
+    "z": 5.13,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 20,
+    "gif": "00028/00028_success_base00020.gif",
+    "xy": 0.26,
+    "z": 7.9,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 21,
+    "gif": "00028/00028_success_base00021.gif",
+    "xy": 0.46,
+    "z": 7.12,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 22,
+    "gif": "00028/00028_success_base00022.gif",
+    "xy": 0.4,
+    "z": 7.73,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 24,
+    "gif": "00028/00028_success_base00024.gif",
+    "xy": 0.76,
+    "z": 6.16,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 25,
+    "gif": "00028/00028_success_base00025.gif",
+    "xy": 0.03,
+    "z": 6.51,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 26,
+    "gif": "00028/00028_success_base00026.gif",
+    "xy": 0.51,
+    "z": 8.23,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 27,
+    "gif": "00028/00028_success_base00027.gif",
+    "xy": 0.2,
+    "z": 7.69,
+    "native": true
+  },
+  {
+    "task": "00028",
+    "base": 28,
+    "gif": "00028/00028_success_base00028.gif",
+    "xy": 0.2,
+    "z": 6.42,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 0,
+    "gif": "00030/00030_success_base00000.gif",
+    "xy": 0.2,
+    "z": 9.1,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 1,
+    "gif": "00030/00030_success_base00001.gif",
+    "xy": 0.25,
+    "z": 9.93,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 2,
+    "gif": "00030/00030_success_base00002.gif",
+    "xy": 0.16,
+    "z": 8.16,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 3,
+    "gif": "00030/00030_success_base00003.gif",
+    "xy": 0.23,
+    "z": 9.89,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 4,
+    "gif": "00030/00030_success_base00004.gif",
+    "xy": 0.34,
+    "z": 8.5,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 5,
+    "gif": "00030/00030_success_base00005.gif",
+    "xy": 0.29,
+    "z": 8.51,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 6,
+    "gif": "00030/00030_success_base00006.gif",
+    "xy": 0.21,
+    "z": 8.68,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 7,
+    "gif": "00030/00030_success_base00007.gif",
+    "xy": 0.39,
+    "z": 9.49,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 8,
+    "gif": "00030/00030_success_base00008.gif",
+    "xy": 0.33,
+    "z": 8.7,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 9,
+    "gif": "00030/00030_success_base00009.gif",
+    "xy": 0.05,
+    "z": 8.67,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 10,
+    "gif": "00030/00030_success_base00010.gif",
+    "xy": 0.49,
+    "z": 8.35,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 11,
+    "gif": "00030/00030_success_base00011.gif",
+    "xy": 0.27,
+    "z": 9.12,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 12,
+    "gif": "00030/00030_success_base00012.gif",
+    "xy": 0.12,
+    "z": 7.91,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 13,
+    "gif": "00030/00030_success_base00013.gif",
+    "xy": 0.17,
+    "z": 9.0,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 14,
+    "gif": "00030/00030_success_base00014.gif",
+    "xy": 0.16,
+    "z": 9.35,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 15,
+    "gif": "00030/00030_success_base00015.gif",
+    "xy": 0.55,
+    "z": 7.67,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 16,
+    "gif": "00030/00030_success_base00016.gif",
+    "xy": 0.52,
+    "z": 8.88,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 17,
+    "gif": "00030/00030_success_base00017.gif",
+    "xy": 0.49,
+    "z": 8.49,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 18,
+    "gif": "00030/00030_success_base00018.gif",
+    "xy": 0.15,
+    "z": 10.12,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 19,
+    "gif": "00030/00030_success_base00019.gif",
+    "xy": 0.24,
+    "z": 9.85,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 20,
+    "gif": "00030/00030_success_base00020.gif",
+    "xy": 0.11,
+    "z": 8.99,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 21,
+    "gif": "00030/00030_success_base00021.gif",
+    "xy": 0.17,
+    "z": 8.69,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 22,
+    "gif": "00030/00030_success_base00022.gif",
+    "xy": 0.18,
+    "z": 10.9,
+    "native": true
+  },
+  {
+    "task": "00030",
+    "base": 23,
+    "gif": "00030/00030_success_base00023.gif",
+    "xy": 0.03,
+    "z": 9.55,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 0,
+    "gif": "00032/00032_success_base00000.gif",
+    "xy": 0.47,
+    "z": 10.41,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 1,
+    "gif": "00032/00032_success_base00001.gif",
+    "xy": 0.19,
+    "z": 8.28,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 2,
+    "gif": "00032/00032_success_base00002.gif",
+    "xy": 0.13,
+    "z": 8.43,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 3,
+    "gif": "00032/00032_success_base00003.gif",
+    "xy": 0.73,
+    "z": 8.93,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 4,
+    "gif": "00032/00032_success_base00004.gif",
+    "xy": 0.08,
+    "z": 8.87,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 5,
+    "gif": "00032/00032_success_base00005.gif",
+    "xy": 0.33,
+    "z": 9.56,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 6,
+    "gif": "00032/00032_success_base00006.gif",
+    "xy": 0.78,
+    "z": 7.46,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 7,
+    "gif": "00032/00032_success_base00007.gif",
+    "xy": 0.38,
+    "z": 9.67,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 8,
+    "gif": "00032/00032_success_base00008.gif",
+    "xy": 0.81,
+    "z": 8.1,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 9,
+    "gif": "00032/00032_success_base00009.gif",
+    "xy": 0.03,
+    "z": 7.94,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 10,
+    "gif": "00032/00032_success_base00010.gif",
+    "xy": 0.62,
+    "z": 10.06,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 11,
+    "gif": "00032/00032_success_base00011.gif",
+    "xy": 0.12,
+    "z": 9.15,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 12,
+    "gif": "00032/00032_success_base00012.gif",
+    "xy": 0.53,
+    "z": 8.02,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 13,
+    "gif": "00032/00032_success_base00013.gif",
+    "xy": 0.31,
+    "z": 7.31,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 14,
+    "gif": "00032/00032_success_base00014.gif",
+    "xy": 0.38,
+    "z": 7.51,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 15,
+    "gif": "00032/00032_success_base00015.gif",
+    "xy": 0.38,
+    "z": 9.25,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 16,
+    "gif": "00032/00032_success_base00016.gif",
+    "xy": 0.43,
+    "z": 9.48,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 17,
+    "gif": "00032/00032_success_base00017.gif",
+    "xy": 1.04,
+    "z": 8.09,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 18,
+    "gif": "00032/00032_success_base00018.gif",
+    "xy": 0.2,
+    "z": 7.91,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 19,
+    "gif": "00032/00032_success_base00019.gif",
+    "xy": 0.81,
+    "z": 8.55,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 20,
+    "gif": "00032/00032_success_base00020.gif",
+    "xy": 0.98,
+    "z": 8.07,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 21,
+    "gif": "00032/00032_success_base00021.gif",
+    "xy": 0.44,
+    "z": 7.96,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 22,
+    "gif": "00032/00032_success_base00022.gif",
+    "xy": 0.39,
+    "z": 7.78,
+    "native": true
+  },
+  {
+    "task": "00032",
+    "base": 23,
+    "gif": "00032/00032_success_base00023.gif",
+    "xy": 0.36,
+    "z": 7.08,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 0,
+    "gif": "00042/00042_success_base00000.gif",
+    "xy": 0.27,
+    "z": 5.62,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 1,
+    "gif": "00042/00042_success_base00001.gif",
+    "xy": 0.2,
+    "z": 5.97,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 2,
+    "gif": "00042/00042_success_base00002.gif",
+    "xy": 0.32,
+    "z": 5.58,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 3,
+    "gif": "00042/00042_success_base00003.gif",
+    "xy": 0.1,
+    "z": 5.69,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 4,
+    "gif": "00042/00042_success_base00004.gif",
+    "xy": 0.54,
+    "z": 4.13,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 6,
+    "gif": "00042/00042_success_base00006.gif",
+    "xy": 0.64,
+    "z": 4.49,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 7,
+    "gif": "00042/00042_success_base00007.gif",
+    "xy": 0.19,
+    "z": 6.5,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 8,
+    "gif": "00042/00042_success_base00008.gif",
+    "xy": 0.17,
+    "z": 4.99,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 13,
+    "gif": "00042/00042_success_base00013.gif",
+    "xy": 0.3,
+    "z": 6.23,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 14,
+    "gif": "00042/00042_success_base00014.gif",
+    "xy": 0.58,
+    "z": 5.97,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 15,
+    "gif": "00042/00042_success_base00015.gif",
+    "xy": 0.21,
+    "z": 4.23,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 16,
+    "gif": "00042/00042_success_base00016.gif",
+    "xy": 0.53,
+    "z": 5.47,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 18,
+    "gif": "00042/00042_success_base00018.gif",
+    "xy": 0.8,
+    "z": 6.06,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 20,
+    "gif": "00042/00042_success_base00020.gif",
+    "xy": 0.52,
+    "z": 5.63,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 21,
+    "gif": "00042/00042_success_base00021.gif",
+    "xy": 0.45,
+    "z": 5.45,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 22,
+    "gif": "00042/00042_success_base00022.gif",
+    "xy": 0.73,
+    "z": 7.25,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 24,
+    "gif": "00042/00042_success_base00024.gif",
+    "xy": 0.39,
+    "z": 5.28,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 26,
+    "gif": "00042/00042_success_base00026.gif",
+    "xy": 0.48,
+    "z": 5.44,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 27,
+    "gif": "00042/00042_success_base00027.gif",
+    "xy": 0.84,
+    "z": 6.43,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 28,
+    "gif": "00042/00042_success_base00028.gif",
+    "xy": 1.0,
+    "z": 6.08,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 29,
+    "gif": "00042/00042_success_base00029.gif",
+    "xy": 0.04,
+    "z": 5.38,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 30,
+    "gif": "00042/00042_success_base00030.gif",
+    "xy": 0.53,
+    "z": 5.0,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 32,
+    "gif": "00042/00042_success_base00032.gif",
+    "xy": 1.02,
+    "z": 5.17,
+    "native": true
+  },
+  {
+    "task": "00042",
+    "base": 33,
+    "gif": "00042/00042_success_base00033.gif",
+    "xy": 0.68,
+    "z": 6.04,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 0,
+    "gif": "00081/00081_success_base00000.gif",
+    "xy": 0.41,
+    "z": 7.6,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 1,
+    "gif": "00081/00081_success_base00001.gif",
+    "xy": 0.33,
+    "z": 6.94,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 2,
+    "gif": "00081/00081_success_base00002.gif",
+    "xy": 0.89,
+    "z": 7.07,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 3,
+    "gif": "00081/00081_success_base00003.gif",
+    "xy": 0.26,
+    "z": 6.97,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 4,
+    "gif": "00081/00081_success_base00004.gif",
+    "xy": 0.74,
+    "z": 6.19,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 5,
+    "gif": "00081/00081_success_base00005.gif",
+    "xy": 0.82,
+    "z": 7.24,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 6,
+    "gif": "00081/00081_success_base00006.gif",
+    "xy": 0.48,
+    "z": 7.57,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 7,
+    "gif": "00081/00081_success_base00007.gif",
+    "xy": 0.44,
+    "z": 7.59,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 8,
+    "gif": "00081/00081_success_base00008.gif",
+    "xy": 0.12,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 9,
+    "gif": "00081/00081_success_base00009.gif",
+    "xy": 0.74,
+    "z": 7.03,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 10,
+    "gif": "00081/00081_success_base00010.gif",
+    "xy": 0.61,
+    "z": 7.42,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 11,
+    "gif": "00081/00081_success_base00011.gif",
+    "xy": 0.09,
+    "z": 7.02,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 12,
+    "gif": "00081/00081_success_base00012.gif",
+    "xy": 0.33,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 13,
+    "gif": "00081/00081_success_base00013.gif",
+    "xy": 0.34,
+    "z": 7.17,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 14,
+    "gif": "00081/00081_success_base00014.gif",
+    "xy": 0.36,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 15,
+    "gif": "00081/00081_success_base00015.gif",
+    "xy": 0.46,
+    "z": 8.11,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 16,
+    "gif": "00081/00081_success_base00016.gif",
+    "xy": 0.69,
+    "z": 6.73,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 17,
+    "gif": "00081/00081_success_base00017.gif",
+    "xy": 0.22,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 18,
+    "gif": "00081/00081_success_base00018.gif",
+    "xy": 0.49,
+    "z": 6.2,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 19,
+    "gif": "00081/00081_success_base00019.gif",
+    "xy": 0.3,
+    "z": 7.32,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 20,
+    "gif": "00081/00081_success_base00020.gif",
+    "xy": 0.4,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 21,
+    "gif": "00081/00081_success_base00021.gif",
+    "xy": 1.11,
+    "z": 6.73,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 22,
+    "gif": "00081/00081_success_base00022.gif",
+    "xy": 0.88,
+    "z": 8.52,
+    "native": true
+  },
+  {
+    "task": "00081",
+    "base": 23,
+    "gif": "00081/00081_success_base00023.gif",
+    "xy": 0.83,
+    "z": 7.34,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 0,
+    "gif": "00117/00117_success_base00000.gif",
+    "xy": 0.34,
+    "z": 27.59,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 1,
+    "gif": "00117/00117_success_base00001.gif",
+    "xy": 0.31,
+    "z": 29.46,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 2,
+    "gif": "00117/00117_success_base00002.gif",
+    "xy": 0.02,
+    "z": 28.63,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 3,
+    "gif": "00117/00117_success_base00003.gif",
+    "xy": 0.2,
+    "z": 28.11,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 4,
+    "gif": "00117/00117_success_base00004.gif",
+    "xy": 0.37,
+    "z": 23.79,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 5,
+    "gif": "00117/00117_success_base00005.gif",
+    "xy": 0.45,
+    "z": 30.85,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 6,
+    "gif": "00117/00117_success_base00006.gif",
+    "xy": 0.22,
+    "z": 29.07,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 7,
+    "gif": "00117/00117_success_base00007.gif",
+    "xy": 0.51,
+    "z": 29.97,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 8,
+    "gif": "00117/00117_success_base00008.gif",
+    "xy": 0.48,
+    "z": 29.21,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 9,
+    "gif": "00117/00117_success_base00009.gif",
+    "xy": 0.69,
+    "z": 28.52,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 10,
+    "gif": "00117/00117_success_base00010.gif",
+    "xy": 0.71,
+    "z": 27.93,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 11,
+    "gif": "00117/00117_success_base00011.gif",
+    "xy": 0.21,
+    "z": 28.67,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 12,
+    "gif": "00117/00117_success_base00012.gif",
+    "xy": 0.97,
+    "z": 29.81,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 13,
+    "gif": "00117/00117_success_base00013.gif",
+    "xy": 0.43,
+    "z": 30.64,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 14,
+    "gif": "00117/00117_success_base00014.gif",
+    "xy": 0.55,
+    "z": 28.62,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 15,
+    "gif": "00117/00117_success_base00015.gif",
+    "xy": 0.65,
+    "z": 30.52,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 16,
+    "gif": "00117/00117_success_base00016.gif",
+    "xy": 0.4,
+    "z": 30.03,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 17,
+    "gif": "00117/00117_success_base00017.gif",
+    "xy": 0.53,
+    "z": 29.98,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 18,
+    "gif": "00117/00117_success_base00018.gif",
+    "xy": 0.28,
+    "z": 29.5,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 19,
+    "gif": "00117/00117_success_base00019.gif",
+    "xy": 0.48,
+    "z": 28.02,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 20,
+    "gif": "00117/00117_success_base00020.gif",
+    "xy": 0.47,
+    "z": 29.27,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 21,
+    "gif": "00117/00117_success_base00021.gif",
+    "xy": 0.77,
+    "z": 29.64,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 22,
+    "gif": "00117/00117_success_base00022.gif",
+    "xy": 0.4,
+    "z": 28.02,
+    "native": true
+  },
+  {
+    "task": "00117",
+    "base": 23,
+    "gif": "00117/00117_success_base00023.gif",
+    "xy": 0.12,
+    "z": 30.38,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 0,
+    "gif": "00133/00133_success_base00000.gif",
+    "xy": 1.02,
+    "z": 7.11,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 1,
+    "gif": "00133/00133_success_base00001.gif",
+    "xy": 0.5,
+    "z": 6.32,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 2,
+    "gif": "00133/00133_success_base00002.gif",
+    "xy": 0.34,
+    "z": 5.57,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 3,
+    "gif": "00133/00133_success_base00003.gif",
+    "xy": 0.43,
+    "z": 6.38,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 4,
+    "gif": "00133/00133_success_base00004.gif",
+    "xy": 0.48,
+    "z": 0.08,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 5,
+    "gif": "00133/00133_success_base00005.gif",
+    "xy": 0.46,
+    "z": 4.7,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 6,
+    "gif": "00133/00133_success_base00006.gif",
+    "xy": 0.4,
+    "z": 4.75,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 7,
+    "gif": "00133/00133_success_base00007.gif",
+    "xy": 0.06,
+    "z": 4.21,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 8,
+    "gif": "00133/00133_success_base00008.gif",
+    "xy": 0.51,
+    "z": 2.82,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 9,
+    "gif": "00133/00133_success_base00009.gif",
+    "xy": 0.59,
+    "z": 1.5,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 10,
+    "gif": "00133/00133_success_base00010.gif",
+    "xy": 0.07,
+    "z": 3.03,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 11,
+    "gif": "00133/00133_success_base00011.gif",
+    "xy": 0.79,
+    "z": 3.71,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 12,
+    "gif": "00133/00133_success_base00012.gif",
+    "xy": 0.49,
+    "z": 2.04,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 13,
+    "gif": "00133/00133_success_base00013.gif",
+    "xy": 0.48,
+    "z": 3.5,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 14,
+    "gif": "00133/00133_success_base00014.gif",
+    "xy": 0.6,
+    "z": 5.6,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 15,
+    "gif": "00133/00133_success_base00015.gif",
+    "xy": 0.6,
+    "z": 0.63,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 16,
+    "gif": "00133/00133_success_base00016.gif",
+    "xy": 0.62,
+    "z": 5.47,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 17,
+    "gif": "00133/00133_success_base00017.gif",
+    "xy": 0.51,
+    "z": 0.06,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 18,
+    "gif": "00133/00133_success_base00018.gif",
+    "xy": 1.27,
+    "z": 0.72,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 19,
+    "gif": "00133/00133_success_base00019.gif",
+    "xy": 0.36,
+    "z": 6.16,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 20,
+    "gif": "00133/00133_success_base00020.gif",
+    "xy": 0.39,
+    "z": 6.99,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 21,
+    "gif": "00133/00133_success_base00021.gif",
+    "xy": 0.38,
+    "z": 0.02,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 22,
+    "gif": "00133/00133_success_base00022.gif",
+    "xy": 0.39,
+    "z": 1.4,
+    "native": true
+  },
+  {
+    "task": "00133",
+    "base": 23,
+    "gif": "00133/00133_success_base00023.gif",
+    "xy": 0.8,
+    "z": 3.22,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 0,
+    "gif": "00141/00141_success_base00000.gif",
+    "xy": 0.8,
+    "z": 5.39,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 1,
+    "gif": "00141/00141_success_base00001.gif",
+    "xy": 1.35,
+    "z": 7.78,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 2,
+    "gif": "00141/00141_success_base00002.gif",
+    "xy": 0.99,
+    "z": 5.0,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 3,
+    "gif": "00141/00141_success_base00003.gif",
+    "xy": 0.18,
+    "z": 6.05,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 4,
+    "gif": "00141/00141_success_base00004.gif",
+    "xy": 1.46,
+    "z": 6.1,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 5,
+    "gif": "00141/00141_success_base00005.gif",
+    "xy": 0.95,
+    "z": 5.97,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 6,
+    "gif": "00141/00141_success_base00006.gif",
+    "xy": 0.25,
+    "z": 4.93,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 7,
+    "gif": "00141/00141_success_base00007.gif",
+    "xy": 0.45,
+    "z": 2.81,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 8,
+    "gif": "00141/00141_success_base00008.gif",
+    "xy": 0.94,
+    "z": 6.46,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 9,
+    "gif": "00141/00141_success_base00009.gif",
+    "xy": 0.27,
+    "z": 4.42,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 10,
+    "gif": "00141/00141_success_base00010.gif",
+    "xy": 0.89,
+    "z": 8.31,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 11,
+    "gif": "00141/00141_success_base00011.gif",
+    "xy": 0.74,
+    "z": 5.89,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 12,
+    "gif": "00141/00141_success_base00012.gif",
+    "xy": 0.27,
+    "z": 5.35,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 13,
+    "gif": "00141/00141_success_base00013.gif",
+    "xy": 1.11,
+    "z": 5.95,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 14,
+    "gif": "00141/00141_success_base00014.gif",
+    "xy": 0.7,
+    "z": 6.16,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 15,
+    "gif": "00141/00141_success_base00015.gif",
+    "xy": 0.11,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 16,
+    "gif": "00141/00141_success_base00016.gif",
+    "xy": 0.4,
+    "z": 5.36,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 17,
+    "gif": "00141/00141_success_base00017.gif",
+    "xy": 1.05,
+    "z": 4.51,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 18,
+    "gif": "00141/00141_success_base00018.gif",
+    "xy": 0.84,
+    "z": 7.48,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 19,
+    "gif": "00141/00141_success_base00019.gif",
+    "xy": 1.16,
+    "z": 5.0,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 20,
+    "gif": "00141/00141_success_base00020.gif",
+    "xy": 1.39,
+    "z": 6.34,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 21,
+    "gif": "00141/00141_success_base00021.gif",
+    "xy": 1.75,
+    "z": 6.18,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 22,
+    "gif": "00141/00141_success_base00022.gif",
+    "xy": 0.92,
+    "z": 6.42,
+    "native": true
+  },
+  {
+    "task": "00141",
+    "base": 23,
+    "gif": "00141/00141_success_base00023.gif",
+    "xy": 0.78,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 5,
+    "gif": "00175/00175_success_base00005.gif",
+    "xy": 0.47,
+    "z": 65.05,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 6,
+    "gif": "00175/00175_success_base00006.gif",
+    "xy": 0.62,
+    "z": 65.82,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 8,
+    "gif": "00175/00175_success_base00008.gif",
+    "xy": 0.41,
+    "z": 64.01,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 10,
+    "gif": "00175/00175_success_base00010.gif",
+    "xy": 0.64,
+    "z": 61.27,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 12,
+    "gif": "00175/00175_success_base00012.gif",
+    "xy": 0.8,
+    "z": 64.79,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 14,
+    "gif": "00175/00175_success_base00014.gif",
+    "xy": 0.32,
+    "z": 63.87,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 16,
+    "gif": "00175/00175_success_base00016.gif",
+    "xy": 0.43,
+    "z": 65.75,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 17,
+    "gif": "00175/00175_success_base00017.gif",
+    "xy": 0.83,
+    "z": 66.2,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 18,
+    "gif": "00175/00175_success_base00018.gif",
+    "xy": 0.66,
+    "z": 64.25,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 19,
+    "gif": "00175/00175_success_base00019.gif",
+    "xy": 0.55,
+    "z": 62.12,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 23,
+    "gif": "00175/00175_success_base00023.gif",
+    "xy": 0.5,
+    "z": 65.23,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 27,
+    "gif": "00175/00175_success_base00027.gif",
+    "xy": 1.64,
+    "z": 65.39,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 28,
+    "gif": "00175/00175_success_base00028.gif",
+    "xy": 0.2,
+    "z": 65.72,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 36,
+    "gif": "00175/00175_success_base00036.gif",
+    "xy": 0.95,
+    "z": 65.17,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 40,
+    "gif": "00175/00175_success_base00040.gif",
+    "xy": 0.2,
+    "z": 63.59,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 43,
+    "gif": "00175/00175_success_base00043.gif",
+    "xy": 0.54,
+    "z": 65.96,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 46,
+    "gif": "00175/00175_success_base00046.gif",
+    "xy": 0.77,
+    "z": 62.72,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 48,
+    "gif": "00175/00175_success_base00048.gif",
+    "xy": 0.13,
+    "z": 65.3,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 51,
+    "gif": "00175/00175_success_base00051.gif",
+    "xy": 0.69,
+    "z": 63.87,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 58,
+    "gif": "00175/00175_success_base00058.gif",
+    "xy": 0.41,
+    "z": 66.21,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 63,
+    "gif": "00175/00175_success_base00063.gif",
+    "xy": 0.7,
+    "z": 62.27,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 70,
+    "gif": "00175/00175_success_base00070.gif",
+    "xy": 0.17,
+    "z": 65.06,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 79,
+    "gif": "00175/00175_success_base00079.gif",
+    "xy": 0.64,
+    "z": 65.39,
+    "native": true
+  },
+  {
+    "task": "00175",
+    "base": 80,
+    "gif": "00175/00175_success_base00080.gif",
+    "xy": 0.72,
+    "z": 65.14,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 0,
+    "gif": "00186/00186_success_base00000.gif",
+    "xy": 0.79,
+    "z": 6.18,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 1,
+    "gif": "00186/00186_success_base00001.gif",
+    "xy": 1.04,
+    "z": 6.8,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 2,
+    "gif": "00186/00186_success_base00002.gif",
+    "xy": 0.51,
+    "z": 6.48,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 3,
+    "gif": "00186/00186_success_base00003.gif",
+    "xy": 1.67,
+    "z": 6.12,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 4,
+    "gif": "00186/00186_success_base00004.gif",
+    "xy": 0.91,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 5,
+    "gif": "00186/00186_success_base00005.gif",
+    "xy": 0.92,
+    "z": 5.32,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 6,
+    "gif": "00186/00186_success_base00006.gif",
+    "xy": 1.58,
+    "z": 4.97,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 7,
+    "gif": "00186/00186_success_base00007.gif",
+    "xy": 1.09,
+    "z": 7.15,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 8,
+    "gif": "00186/00186_success_base00008.gif",
+    "xy": 0.6,
+    "z": 6.52,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 9,
+    "gif": "00186/00186_success_base00009.gif",
+    "xy": 1.19,
+    "z": 7.17,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 10,
+    "gif": "00186/00186_success_base00010.gif",
+    "xy": 1.39,
+    "z": 6.96,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 11,
+    "gif": "00186/00186_success_base00011.gif",
+    "xy": 0.5,
+    "z": 5.93,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 12,
+    "gif": "00186/00186_success_base00012.gif",
+    "xy": 1.46,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 13,
+    "gif": "00186/00186_success_base00013.gif",
+    "xy": 1.32,
+    "z": 6.33,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 14,
+    "gif": "00186/00186_success_base00014.gif",
+    "xy": 0.83,
+    "z": 6.59,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 15,
+    "gif": "00186/00186_success_base00015.gif",
+    "xy": 1.11,
+    "z": 4.66,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 16,
+    "gif": "00186/00186_success_base00016.gif",
+    "xy": 1.28,
+    "z": 6.78,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 17,
+    "gif": "00186/00186_success_base00017.gif",
+    "xy": 1.16,
+    "z": 6.01,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 18,
+    "gif": "00186/00186_success_base00018.gif",
+    "xy": 1.03,
+    "z": 7.68,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 19,
+    "gif": "00186/00186_success_base00019.gif",
+    "xy": 1.73,
+    "z": 7.23,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 20,
+    "gif": "00186/00186_success_base00020.gif",
+    "xy": 0.09,
+    "z": 7.35,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 21,
+    "gif": "00186/00186_success_base00021.gif",
+    "xy": 1.08,
+    "z": 6.96,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 22,
+    "gif": "00186/00186_success_base00022.gif",
+    "xy": 0.98,
+    "z": 7.28,
+    "native": true
+  },
+  {
+    "task": "00186",
+    "base": 23,
+    "gif": "00186/00186_success_base00023.gif",
+    "xy": 0.5,
+    "z": 6.23,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 0,
+    "gif": "00187/00187_success_base00000.gif",
+    "xy": 0.25,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 1,
+    "gif": "00187/00187_success_base00001.gif",
+    "xy": 0.52,
+    "z": 5.3,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 2,
+    "gif": "00187/00187_success_base00002.gif",
+    "xy": 0.6,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 3,
+    "gif": "00187/00187_success_base00003.gif",
+    "xy": 0.34,
+    "z": 4.61,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 4,
+    "gif": "00187/00187_success_base00004.gif",
+    "xy": 0.62,
+    "z": 2.26,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 5,
+    "gif": "00187/00187_success_base00005.gif",
+    "xy": 0.76,
+    "z": 7.22,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 6,
+    "gif": "00187/00187_success_base00006.gif",
+    "xy": 0.45,
+    "z": 5.72,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 7,
+    "gif": "00187/00187_success_base00007.gif",
+    "xy": 0.61,
+    "z": 6.3,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 8,
+    "gif": "00187/00187_success_base00008.gif",
+    "xy": 0.62,
+    "z": 5.98,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 9,
+    "gif": "00187/00187_success_base00009.gif",
+    "xy": 0.04,
+    "z": 5.39,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 10,
+    "gif": "00187/00187_success_base00010.gif",
+    "xy": 0.53,
+    "z": 6.02,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 11,
+    "gif": "00187/00187_success_base00011.gif",
+    "xy": 0.52,
+    "z": 5.94,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 12,
+    "gif": "00187/00187_success_base00012.gif",
+    "xy": 0.51,
+    "z": 6.85,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 14,
+    "gif": "00187/00187_success_base00014.gif",
+    "xy": 0.87,
+    "z": 6.04,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 15,
+    "gif": "00187/00187_success_base00015.gif",
+    "xy": 0.78,
+    "z": 7.8,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 17,
+    "gif": "00187/00187_success_base00017.gif",
+    "xy": 0.56,
+    "z": 7.04,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 18,
+    "gif": "00187/00187_success_base00018.gif",
+    "xy": 0.44,
+    "z": 6.81,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 19,
+    "gif": "00187/00187_success_base00019.gif",
+    "xy": 0.76,
+    "z": 7.43,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 20,
+    "gif": "00187/00187_success_base00020.gif",
+    "xy": 0.54,
+    "z": 7.87,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 21,
+    "gif": "00187/00187_success_base00021.gif",
+    "xy": 0.92,
+    "z": 3.84,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 22,
+    "gif": "00187/00187_success_base00022.gif",
+    "xy": 0.28,
+    "z": 7.15,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 23,
+    "gif": "00187/00187_success_base00023.gif",
+    "xy": 0.75,
+    "z": 4.28,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 24,
+    "gif": "00187/00187_success_base00024.gif",
+    "xy": 0.44,
+    "z": 7.1,
+    "native": true
+  },
+  {
+    "task": "00187",
+    "base": 25,
+    "gif": "00187/00187_success_base00025.gif",
+    "xy": 0.89,
+    "z": 5.84,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 0,
+    "gif": "00211/00211_success_base00000.gif",
+    "xy": 0.33,
+    "z": 13.16,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 1,
+    "gif": "00211/00211_success_base00001.gif",
+    "xy": 0.23,
+    "z": 14.06,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 2,
+    "gif": "00211/00211_success_base00002.gif",
+    "xy": 0.51,
+    "z": 12.44,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 3,
+    "gif": "00211/00211_success_base00003.gif",
+    "xy": 0.07,
+    "z": 13.32,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 4,
+    "gif": "00211/00211_success_base00004.gif",
+    "xy": 0.69,
+    "z": 13.21,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 5,
+    "gif": "00211/00211_success_base00005.gif",
+    "xy": 0.33,
+    "z": 13.13,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 6,
+    "gif": "00211/00211_success_base00006.gif",
+    "xy": 0.41,
+    "z": 14.25,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 7,
+    "gif": "00211/00211_success_base00007.gif",
+    "xy": 0.22,
+    "z": 12.47,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 10,
+    "gif": "00211/00211_success_base00010.gif",
+    "xy": 0.68,
+    "z": 13.31,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 12,
+    "gif": "00211/00211_success_base00012.gif",
+    "xy": 0.46,
+    "z": 13.21,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 15,
+    "gif": "00211/00211_success_base00015.gif",
+    "xy": 0.39,
+    "z": 13.38,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 16,
+    "gif": "00211/00211_success_base00016.gif",
+    "xy": 0.79,
+    "z": 14.55,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 17,
+    "gif": "00211/00211_success_base00017.gif",
+    "xy": 0.15,
+    "z": 13.81,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 18,
+    "gif": "00211/00211_success_base00018.gif",
+    "xy": 0.48,
+    "z": 14.21,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 19,
+    "gif": "00211/00211_success_base00019.gif",
+    "xy": 0.41,
+    "z": 14.04,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 20,
+    "gif": "00211/00211_success_base00020.gif",
+    "xy": 0.31,
+    "z": 14.61,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 21,
+    "gif": "00211/00211_success_base00021.gif",
+    "xy": 0.37,
+    "z": 12.4,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 22,
+    "gif": "00211/00211_success_base00022.gif",
+    "xy": 0.45,
+    "z": 13.23,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 23,
+    "gif": "00211/00211_success_base00023.gif",
+    "xy": 0.8,
+    "z": 13.34,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 24,
+    "gif": "00211/00211_success_base00024.gif",
+    "xy": 0.42,
+    "z": 13.74,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 25,
+    "gif": "00211/00211_success_base00025.gif",
+    "xy": 0.65,
+    "z": 13.01,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 27,
+    "gif": "00211/00211_success_base00027.gif",
+    "xy": 0.47,
+    "z": 13.01,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 28,
+    "gif": "00211/00211_success_base00028.gif",
+    "xy": 0.11,
+    "z": 11.81,
+    "native": true
+  },
+  {
+    "task": "00211",
+    "base": 29,
+    "gif": "00211/00211_success_base00029.gif",
+    "xy": 0.64,
+    "z": 13.53,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 0,
+    "gif": "00213/00213_success_base00000.gif",
+    "xy": 0.11,
+    "z": 6.3,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 1,
+    "gif": "00213/00213_success_base00001.gif",
+    "xy": 0.7,
+    "z": 6.12,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 2,
+    "gif": "00213/00213_success_base00002.gif",
+    "xy": 0.35,
+    "z": 4.27,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 3,
+    "gif": "00213/00213_success_base00003.gif",
+    "xy": 0.38,
+    "z": 5.56,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 4,
+    "gif": "00213/00213_success_base00004.gif",
+    "xy": 0.15,
+    "z": 5.56,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 5,
+    "gif": "00213/00213_success_base00005.gif",
+    "xy": 0.63,
+    "z": 6.42,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 6,
+    "gif": "00213/00213_success_base00006.gif",
+    "xy": 0.36,
+    "z": 5.5,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 7,
+    "gif": "00213/00213_success_base00007.gif",
+    "xy": 0.12,
+    "z": 5.14,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 8,
+    "gif": "00213/00213_success_base00008.gif",
+    "xy": 0.39,
+    "z": 4.96,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 9,
+    "gif": "00213/00213_success_base00009.gif",
+    "xy": 0.33,
+    "z": 5.69,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 10,
+    "gif": "00213/00213_success_base00010.gif",
+    "xy": 0.2,
+    "z": 5.28,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 11,
+    "gif": "00213/00213_success_base00011.gif",
+    "xy": 0.16,
+    "z": 5.94,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 12,
+    "gif": "00213/00213_success_base00012.gif",
+    "xy": 0.52,
+    "z": 5.76,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 13,
+    "gif": "00213/00213_success_base00013.gif",
+    "xy": 0.21,
+    "z": 6.33,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 14,
+    "gif": "00213/00213_success_base00014.gif",
+    "xy": 0.27,
+    "z": 6.51,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 15,
+    "gif": "00213/00213_success_base00015.gif",
+    "xy": 0.15,
+    "z": 5.45,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 16,
+    "gif": "00213/00213_success_base00016.gif",
+    "xy": 0.69,
+    "z": 6.22,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 17,
+    "gif": "00213/00213_success_base00017.gif",
+    "xy": 0.1,
+    "z": 6.81,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 18,
+    "gif": "00213/00213_success_base00018.gif",
+    "xy": 0.19,
+    "z": 5.9,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 19,
+    "gif": "00213/00213_success_base00019.gif",
+    "xy": 0.37,
+    "z": 4.65,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 20,
+    "gif": "00213/00213_success_base00020.gif",
+    "xy": 0.17,
+    "z": 5.29,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 21,
+    "gif": "00213/00213_success_base00021.gif",
+    "xy": 0.33,
+    "z": 5.99,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 22,
+    "gif": "00213/00213_success_base00022.gif",
+    "xy": 0.34,
+    "z": 4.0,
+    "native": true
+  },
+  {
+    "task": "00213",
+    "base": 23,
+    "gif": "00213/00213_success_base00023.gif",
+    "xy": 0.35,
+    "z": 7.22,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 0,
+    "gif": "00271/00271_success_base00000.gif",
+    "xy": 0.23,
+    "z": 4.78,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 1,
+    "gif": "00271/00271_success_base00001.gif",
+    "xy": 0.37,
+    "z": 7.16,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 2,
+    "gif": "00271/00271_success_base00002.gif",
+    "xy": 0.5,
+    "z": 6.49,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 3,
+    "gif": "00271/00271_success_base00003.gif",
+    "xy": 0.37,
+    "z": 6.01,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 4,
+    "gif": "00271/00271_success_base00004.gif",
+    "xy": 0.57,
+    "z": 7.07,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 5,
+    "gif": "00271/00271_success_base00005.gif",
+    "xy": 0.31,
+    "z": 6.41,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 6,
+    "gif": "00271/00271_success_base00006.gif",
+    "xy": 0.59,
+    "z": 6.65,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 7,
+    "gif": "00271/00271_success_base00007.gif",
+    "xy": 0.1,
+    "z": 5.71,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 8,
+    "gif": "00271/00271_success_base00008.gif",
+    "xy": 0.48,
+    "z": 2.98,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 9,
+    "gif": "00271/00271_success_base00009.gif",
+    "xy": 0.46,
+    "z": 5.89,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 10,
+    "gif": "00271/00271_success_base00010.gif",
+    "xy": 0.79,
+    "z": 1.9,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 11,
+    "gif": "00271/00271_success_base00011.gif",
+    "xy": 0.27,
+    "z": 6.01,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 12,
+    "gif": "00271/00271_success_base00012.gif",
+    "xy": 0.41,
+    "z": 6.89,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 13,
+    "gif": "00271/00271_success_base00013.gif",
+    "xy": 0.47,
+    "z": 4.77,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 14,
+    "gif": "00271/00271_success_base00014.gif",
+    "xy": 0.39,
+    "z": 7.23,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 15,
+    "gif": "00271/00271_success_base00015.gif",
+    "xy": 0.23,
+    "z": 7.07,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 17,
+    "gif": "00271/00271_success_base00017.gif",
+    "xy": 0.83,
+    "z": 6.7,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 18,
+    "gif": "00271/00271_success_base00018.gif",
+    "xy": 0.14,
+    "z": 5.97,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 19,
+    "gif": "00271/00271_success_base00019.gif",
+    "xy": 0.45,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 20,
+    "gif": "00271/00271_success_base00020.gif",
+    "xy": 0.18,
+    "z": 5.65,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 21,
+    "gif": "00271/00271_success_base00021.gif",
+    "xy": 0.05,
+    "z": 4.19,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 22,
+    "gif": "00271/00271_success_base00022.gif",
+    "xy": 0.31,
+    "z": 5.1,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 23,
+    "gif": "00271/00271_success_base00023.gif",
+    "xy": 0.11,
+    "z": 7.13,
+    "native": true
+  },
+  {
+    "task": "00271",
+    "base": 24,
+    "gif": "00271/00271_success_base00024.gif",
+    "xy": 0.66,
+    "z": 7.2,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 0,
+    "gif": "00293/00293_success_base00000.gif",
+    "xy": 0.85,
+    "z": 7.22,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 1,
+    "gif": "00293/00293_success_base00001.gif",
+    "xy": 1.95,
+    "z": 7.58,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 2,
+    "gif": "00293/00293_success_base00002.gif",
+    "xy": 1.67,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 3,
+    "gif": "00293/00293_success_base00003.gif",
+    "xy": 0.14,
+    "z": 6.73,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 4,
+    "gif": "00293/00293_success_base00004.gif",
+    "xy": 0.95,
+    "z": 6.45,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 5,
+    "gif": "00293/00293_success_base00005.gif",
+    "xy": 0.13,
+    "z": 6.64,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 6,
+    "gif": "00293/00293_success_base00006.gif",
+    "xy": 0.77,
+    "z": 6.43,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 7,
+    "gif": "00293/00293_success_base00007.gif",
+    "xy": 0.58,
+    "z": 5.16,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 8,
+    "gif": "00293/00293_success_base00008.gif",
+    "xy": 0.57,
+    "z": 5.9,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 9,
+    "gif": "00293/00293_success_base00009.gif",
+    "xy": 0.48,
+    "z": 6.47,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 10,
+    "gif": "00293/00293_success_base00010.gif",
+    "xy": 0.99,
+    "z": 7.02,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 11,
+    "gif": "00293/00293_success_base00011.gif",
+    "xy": 1.51,
+    "z": 6.23,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 12,
+    "gif": "00293/00293_success_base00012.gif",
+    "xy": 1.66,
+    "z": 6.52,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 13,
+    "gif": "00293/00293_success_base00013.gif",
+    "xy": 0.46,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 14,
+    "gif": "00293/00293_success_base00014.gif",
+    "xy": 0.83,
+    "z": 6.3,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 15,
+    "gif": "00293/00293_success_base00015.gif",
+    "xy": 1.63,
+    "z": 7.32,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 16,
+    "gif": "00293/00293_success_base00016.gif",
+    "xy": 1.12,
+    "z": 5.91,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 17,
+    "gif": "00293/00293_success_base00017.gif",
+    "xy": 0.57,
+    "z": 6.14,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 18,
+    "gif": "00293/00293_success_base00018.gif",
+    "xy": 0.88,
+    "z": 6.35,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 19,
+    "gif": "00293/00293_success_base00019.gif",
+    "xy": 0.86,
+    "z": 6.78,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 20,
+    "gif": "00293/00293_success_base00020.gif",
+    "xy": 0.37,
+    "z": 6.09,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 21,
+    "gif": "00293/00293_success_base00021.gif",
+    "xy": 0.63,
+    "z": 5.19,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 22,
+    "gif": "00293/00293_success_base00022.gif",
+    "xy": 0.81,
+    "z": 6.89,
+    "native": true
+  },
+  {
+    "task": "00293",
+    "base": 23,
+    "gif": "00293/00293_success_base00023.gif",
+    "xy": 1.25,
+    "z": 7.63,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 0,
+    "gif": "00296/00296_success_base00000.gif",
+    "xy": 0.31,
+    "z": 0.34,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 1,
+    "gif": "00296/00296_success_base00001.gif",
+    "xy": 0.41,
+    "z": 0.37,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 2,
+    "gif": "00296/00296_success_base00002.gif",
+    "xy": 0.5,
+    "z": 0.58,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 3,
+    "gif": "00296/00296_success_base00003.gif",
+    "xy": 0.54,
+    "z": 0.47,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 4,
+    "gif": "00296/00296_success_base00004.gif",
+    "xy": 0.16,
+    "z": 0.22,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 5,
+    "gif": "00296/00296_success_base00005.gif",
+    "xy": 0.22,
+    "z": 0.18,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 6,
+    "gif": "00296/00296_success_base00006.gif",
+    "xy": 0.25,
+    "z": 0.24,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 7,
+    "gif": "00296/00296_success_base00007.gif",
+    "xy": 0.03,
+    "z": 0.22,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 8,
+    "gif": "00296/00296_success_base00008.gif",
+    "xy": 0.53,
+    "z": 0.28,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 9,
+    "gif": "00296/00296_success_base00009.gif",
+    "xy": 0.3,
+    "z": 0.14,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 10,
+    "gif": "00296/00296_success_base00010.gif",
+    "xy": 0.16,
+    "z": 0.01,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 11,
+    "gif": "00296/00296_success_base00011.gif",
+    "xy": 0.91,
+    "z": 0.22,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 12,
+    "gif": "00296/00296_success_base00012.gif",
+    "xy": 0.48,
+    "z": 0.01,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 13,
+    "gif": "00296/00296_success_base00013.gif",
+    "xy": 0.39,
+    "z": 0.18,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 14,
+    "gif": "00296/00296_success_base00014.gif",
+    "xy": 0.17,
+    "z": 0.32,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 15,
+    "gif": "00296/00296_success_base00015.gif",
+    "xy": 0.33,
+    "z": 0.65,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 16,
+    "gif": "00296/00296_success_base00016.gif",
+    "xy": 0.41,
+    "z": 0.6,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 17,
+    "gif": "00296/00296_success_base00017.gif",
+    "xy": 0.13,
+    "z": 0.3,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 18,
+    "gif": "00296/00296_success_base00018.gif",
+    "xy": 0.19,
+    "z": 0.15,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 19,
+    "gif": "00296/00296_success_base00019.gif",
+    "xy": 0.24,
+    "z": 0.28,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 20,
+    "gif": "00296/00296_success_base00020.gif",
+    "xy": 0.22,
+    "z": 0.33,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 21,
+    "gif": "00296/00296_success_base00021.gif",
+    "xy": 0.65,
+    "z": 0.36,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 22,
+    "gif": "00296/00296_success_base00022.gif",
+    "xy": 0.24,
+    "z": 0.29,
+    "native": true
+  },
+  {
+    "task": "00296",
+    "base": 23,
+    "gif": "00296/00296_success_base00023.gif",
+    "xy": 0.12,
+    "z": 0.0,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 0,
+    "gif": "00301/00301_success_base00000.gif",
+    "xy": 0.28,
+    "z": 7.6,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 1,
+    "gif": "00301/00301_success_base00001.gif",
+    "xy": 0.22,
+    "z": 7.64,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 2,
+    "gif": "00301/00301_success_base00002.gif",
+    "xy": 0.18,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 3,
+    "gif": "00301/00301_success_base00003.gif",
+    "xy": 0.14,
+    "z": 6.93,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 4,
+    "gif": "00301/00301_success_base00004.gif",
+    "xy": 0.2,
+    "z": 7.63,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 5,
+    "gif": "00301/00301_success_base00005.gif",
+    "xy": 0.13,
+    "z": 6.55,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 6,
+    "gif": "00301/00301_success_base00006.gif",
+    "xy": 0.25,
+    "z": 7.52,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 7,
+    "gif": "00301/00301_success_base00007.gif",
+    "xy": 0.54,
+    "z": 5.89,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 8,
+    "gif": "00301/00301_success_base00008.gif",
+    "xy": 0.35,
+    "z": 6.41,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 9,
+    "gif": "00301/00301_success_base00009.gif",
+    "xy": 0.58,
+    "z": 8.19,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 10,
+    "gif": "00301/00301_success_base00010.gif",
+    "xy": 0.21,
+    "z": 8.4,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 11,
+    "gif": "00301/00301_success_base00011.gif",
+    "xy": 0.19,
+    "z": 7.11,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 12,
+    "gif": "00301/00301_success_base00012.gif",
+    "xy": 0.29,
+    "z": 6.59,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 14,
+    "gif": "00301/00301_success_base00014.gif",
+    "xy": 0.58,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 15,
+    "gif": "00301/00301_success_base00015.gif",
+    "xy": 0.42,
+    "z": 5.76,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 17,
+    "gif": "00301/00301_success_base00017.gif",
+    "xy": 0.28,
+    "z": 8.16,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 18,
+    "gif": "00301/00301_success_base00018.gif",
+    "xy": 0.39,
+    "z": 7.9,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 20,
+    "gif": "00301/00301_success_base00020.gif",
+    "xy": 0.09,
+    "z": 7.66,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 21,
+    "gif": "00301/00301_success_base00021.gif",
+    "xy": 0.16,
+    "z": 6.7,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 22,
+    "gif": "00301/00301_success_base00022.gif",
+    "xy": 0.34,
+    "z": 7.77,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 23,
+    "gif": "00301/00301_success_base00023.gif",
+    "xy": 0.61,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 25,
+    "gif": "00301/00301_success_base00025.gif",
+    "xy": 0.3,
+    "z": 7.37,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 26,
+    "gif": "00301/00301_success_base00026.gif",
+    "xy": 0.21,
+    "z": 7.62,
+    "native": true
+  },
+  {
+    "task": "00301",
+    "base": 27,
+    "gif": "00301/00301_success_base00027.gif",
+    "xy": 0.49,
+    "z": 6.0,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 1,
+    "gif": "00329/00329_success_base00001.gif",
+    "xy": 0.52,
+    "z": 6.42,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 2,
+    "gif": "00329/00329_success_base00002.gif",
+    "xy": 0.71,
+    "z": 6.61,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 3,
+    "gif": "00329/00329_success_base00003.gif",
+    "xy": 0.94,
+    "z": 7.22,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 4,
+    "gif": "00329/00329_success_base00004.gif",
+    "xy": 0.14,
+    "z": 7.04,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 5,
+    "gif": "00329/00329_success_base00005.gif",
+    "xy": 0.12,
+    "z": 7.4,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 6,
+    "gif": "00329/00329_success_base00006.gif",
+    "xy": 0.4,
+    "z": 7.44,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 7,
+    "gif": "00329/00329_success_base00007.gif",
+    "xy": 0.61,
+    "z": 6.81,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 8,
+    "gif": "00329/00329_success_base00008.gif",
+    "xy": 0.28,
+    "z": 5.32,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 9,
+    "gif": "00329/00329_success_base00009.gif",
+    "xy": 0.45,
+    "z": 6.1,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 10,
+    "gif": "00329/00329_success_base00010.gif",
+    "xy": 0.12,
+    "z": 3.03,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 11,
+    "gif": "00329/00329_success_base00011.gif",
+    "xy": 0.15,
+    "z": 7.57,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 12,
+    "gif": "00329/00329_success_base00012.gif",
+    "xy": 0.29,
+    "z": 3.88,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 13,
+    "gif": "00329/00329_success_base00013.gif",
+    "xy": 0.39,
+    "z": 7.28,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 14,
+    "gif": "00329/00329_success_base00014.gif",
+    "xy": 0.16,
+    "z": 7.71,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 15,
+    "gif": "00329/00329_success_base00015.gif",
+    "xy": 0.39,
+    "z": 7.87,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 16,
+    "gif": "00329/00329_success_base00016.gif",
+    "xy": 0.46,
+    "z": 5.01,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 18,
+    "gif": "00329/00329_success_base00018.gif",
+    "xy": 0.33,
+    "z": 7.86,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 19,
+    "gif": "00329/00329_success_base00019.gif",
+    "xy": 0.58,
+    "z": 6.36,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 20,
+    "gif": "00329/00329_success_base00020.gif",
+    "xy": 0.23,
+    "z": 7.63,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 23,
+    "gif": "00329/00329_success_base00023.gif",
+    "xy": 0.55,
+    "z": 3.88,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 24,
+    "gif": "00329/00329_success_base00024.gif",
+    "xy": 0.4,
+    "z": 7.52,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 25,
+    "gif": "00329/00329_success_base00025.gif",
+    "xy": 0.33,
+    "z": 7.89,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 26,
+    "gif": "00329/00329_success_base00026.gif",
+    "xy": 0.12,
+    "z": 6.82,
+    "native": true
+  },
+  {
+    "task": "00329",
+    "base": 27,
+    "gif": "00329/00329_success_base00027.gif",
+    "xy": 0.43,
+    "z": 7.65,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 1,
+    "gif": "00340/00340_success_base00001.gif",
+    "xy": 0.32,
+    "z": 8.66,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 2,
+    "gif": "00340/00340_success_base00002.gif",
+    "xy": 1.3,
+    "z": 6.81,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 3,
+    "gif": "00340/00340_success_base00003.gif",
+    "xy": 0.43,
+    "z": 10.49,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 5,
+    "gif": "00340/00340_success_base00005.gif",
+    "xy": 0.4,
+    "z": 10.7,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 7,
+    "gif": "00340/00340_success_base00007.gif",
+    "xy": 0.16,
+    "z": 10.22,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 8,
+    "gif": "00340/00340_success_base00008.gif",
+    "xy": 0.16,
+    "z": 10.01,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 9,
+    "gif": "00340/00340_success_base00009.gif",
+    "xy": 0.86,
+    "z": 11.08,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 10,
+    "gif": "00340/00340_success_base00010.gif",
+    "xy": 3.34,
+    "z": 9.2,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 11,
+    "gif": "00340/00340_success_base00011.gif",
+    "xy": 0.77,
+    "z": 8.63,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 12,
+    "gif": "00340/00340_success_base00012.gif",
+    "xy": 0.54,
+    "z": 10.84,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 14,
+    "gif": "00340/00340_success_base00014.gif",
+    "xy": 0.33,
+    "z": 11.77,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 15,
+    "gif": "00340/00340_success_base00015.gif",
+    "xy": 0.54,
+    "z": 11.19,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 16,
+    "gif": "00340/00340_success_base00016.gif",
+    "xy": 0.08,
+    "z": 10.28,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 17,
+    "gif": "00340/00340_success_base00017.gif",
+    "xy": 0.33,
+    "z": 10.29,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 18,
+    "gif": "00340/00340_success_base00018.gif",
+    "xy": 1.31,
+    "z": 10.17,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 19,
+    "gif": "00340/00340_success_base00019.gif",
+    "xy": 0.64,
+    "z": 11.0,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 20,
+    "gif": "00340/00340_success_base00020.gif",
+    "xy": 0.51,
+    "z": 11.4,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 21,
+    "gif": "00340/00340_success_base00021.gif",
+    "xy": 1.1,
+    "z": 9.09,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 22,
+    "gif": "00340/00340_success_base00022.gif",
+    "xy": 0.25,
+    "z": 11.2,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 23,
+    "gif": "00340/00340_success_base00023.gif",
+    "xy": 2.36,
+    "z": 9.37,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 24,
+    "gif": "00340/00340_success_base00024.gif",
+    "xy": 0.09,
+    "z": 10.63,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 25,
+    "gif": "00340/00340_success_base00025.gif",
+    "xy": 0.16,
+    "z": 11.57,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 26,
+    "gif": "00340/00340_success_base00026.gif",
+    "xy": 0.43,
+    "z": 11.17,
+    "native": true
+  },
+  {
+    "task": "00340",
+    "base": 27,
+    "gif": "00340/00340_success_base00027.gif",
+    "xy": 0.16,
+    "z": 10.19,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 0,
+    "gif": "00346/00346_success_base00000.gif",
+    "xy": 0.73,
+    "z": 5.87,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 1,
+    "gif": "00346/00346_success_base00001.gif",
+    "xy": 0.57,
+    "z": 5.47,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 2,
+    "gif": "00346/00346_success_base00002.gif",
+    "xy": 0.33,
+    "z": 4.61,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 3,
+    "gif": "00346/00346_success_base00003.gif",
+    "xy": 0.53,
+    "z": 5.52,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 4,
+    "gif": "00346/00346_success_base00004.gif",
+    "xy": 1.07,
+    "z": 4.53,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 5,
+    "gif": "00346/00346_success_base00005.gif",
+    "xy": 0.33,
+    "z": 3.82,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 6,
+    "gif": "00346/00346_success_base00006.gif",
+    "xy": 0.25,
+    "z": 3.82,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 7,
+    "gif": "00346/00346_success_base00007.gif",
+    "xy": 0.93,
+    "z": 7.48,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 8,
+    "gif": "00346/00346_success_base00008.gif",
+    "xy": 0.34,
+    "z": 4.15,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 9,
+    "gif": "00346/00346_success_base00009.gif",
+    "xy": 0.94,
+    "z": 4.55,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 10,
+    "gif": "00346/00346_success_base00010.gif",
+    "xy": 0.12,
+    "z": 5.8,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 11,
+    "gif": "00346/00346_success_base00011.gif",
+    "xy": 0.32,
+    "z": 4.16,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 12,
+    "gif": "00346/00346_success_base00012.gif",
+    "xy": 1.15,
+    "z": 6.28,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 13,
+    "gif": "00346/00346_success_base00013.gif",
+    "xy": 0.29,
+    "z": 4.72,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 14,
+    "gif": "00346/00346_success_base00014.gif",
+    "xy": 0.22,
+    "z": 5.37,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 15,
+    "gif": "00346/00346_success_base00015.gif",
+    "xy": 0.31,
+    "z": 6.64,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 16,
+    "gif": "00346/00346_success_base00016.gif",
+    "xy": 0.95,
+    "z": 3.59,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 17,
+    "gif": "00346/00346_success_base00017.gif",
+    "xy": 0.65,
+    "z": 4.5,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 18,
+    "gif": "00346/00346_success_base00018.gif",
+    "xy": 0.56,
+    "z": 5.92,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 19,
+    "gif": "00346/00346_success_base00019.gif",
+    "xy": 0.81,
+    "z": 3.7,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 20,
+    "gif": "00346/00346_success_base00020.gif",
+    "xy": 0.43,
+    "z": 6.18,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 21,
+    "gif": "00346/00346_success_base00021.gif",
+    "xy": 0.28,
+    "z": 5.29,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 22,
+    "gif": "00346/00346_success_base00022.gif",
+    "xy": 0.27,
+    "z": 6.07,
+    "native": true
+  },
+  {
+    "task": "00346",
+    "base": 23,
+    "gif": "00346/00346_success_base00023.gif",
+    "xy": 1.13,
+    "z": 6.1,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 0,
+    "gif": "00360/00360_success_base00000.gif",
+    "xy": 0.41,
+    "z": 22.48,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 2,
+    "gif": "00360/00360_success_base00002.gif",
+    "xy": 0.07,
+    "z": 22.29,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 3,
+    "gif": "00360/00360_success_base00003.gif",
+    "xy": 0.45,
+    "z": 21.47,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 4,
+    "gif": "00360/00360_success_base00004.gif",
+    "xy": 0.77,
+    "z": 21.68,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 5,
+    "gif": "00360/00360_success_base00005.gif",
+    "xy": 0.56,
+    "z": 22.5,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 6,
+    "gif": "00360/00360_success_base00006.gif",
+    "xy": 0.64,
+    "z": 22.74,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 7,
+    "gif": "00360/00360_success_base00007.gif",
+    "xy": 0.15,
+    "z": 21.48,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 8,
+    "gif": "00360/00360_success_base00008.gif",
+    "xy": 0.48,
+    "z": 20.41,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 9,
+    "gif": "00360/00360_success_base00009.gif",
+    "xy": 0.79,
+    "z": 21.39,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 10,
+    "gif": "00360/00360_success_base00010.gif",
+    "xy": 0.46,
+    "z": 23.46,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 11,
+    "gif": "00360/00360_success_base00011.gif",
+    "xy": 0.25,
+    "z": 20.28,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 12,
+    "gif": "00360/00360_success_base00012.gif",
+    "xy": 0.28,
+    "z": 21.12,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 13,
+    "gif": "00360/00360_success_base00013.gif",
+    "xy": 0.18,
+    "z": 21.92,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 14,
+    "gif": "00360/00360_success_base00014.gif",
+    "xy": 0.17,
+    "z": 21.59,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 15,
+    "gif": "00360/00360_success_base00015.gif",
+    "xy": 0.43,
+    "z": 19.64,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 16,
+    "gif": "00360/00360_success_base00016.gif",
+    "xy": 0.3,
+    "z": 22.43,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 17,
+    "gif": "00360/00360_success_base00017.gif",
+    "xy": 0.23,
+    "z": 21.61,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 18,
+    "gif": "00360/00360_success_base00018.gif",
+    "xy": 0.25,
+    "z": 21.12,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 19,
+    "gif": "00360/00360_success_base00019.gif",
+    "xy": 0.67,
+    "z": 22.96,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 20,
+    "gif": "00360/00360_success_base00020.gif",
+    "xy": 0.17,
+    "z": 20.46,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 22,
+    "gif": "00360/00360_success_base00022.gif",
+    "xy": 0.57,
+    "z": 22.12,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 23,
+    "gif": "00360/00360_success_base00023.gif",
+    "xy": 0.72,
+    "z": 20.83,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 24,
+    "gif": "00360/00360_success_base00024.gif",
+    "xy": 0.61,
+    "z": 21.87,
+    "native": true
+  },
+  {
+    "task": "00360",
+    "base": 25,
+    "gif": "00360/00360_success_base00025.gif",
+    "xy": 0.36,
+    "z": 20.71,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 0,
+    "gif": "00388/00388_success_base00000.gif",
+    "xy": 0.43,
+    "z": 6.52,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 2,
+    "gif": "00388/00388_success_base00002.gif",
+    "xy": 0.33,
+    "z": 6.83,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 3,
+    "gif": "00388/00388_success_base00003.gif",
+    "xy": 0.83,
+    "z": 6.92,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 5,
+    "gif": "00388/00388_success_base00005.gif",
+    "xy": 0.16,
+    "z": 6.13,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 6,
+    "gif": "00388/00388_success_base00006.gif",
+    "xy": 0.54,
+    "z": 7.14,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 8,
+    "gif": "00388/00388_success_base00008.gif",
+    "xy": 0.29,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 9,
+    "gif": "00388/00388_success_base00009.gif",
+    "xy": 0.26,
+    "z": 6.72,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 10,
+    "gif": "00388/00388_success_base00010.gif",
+    "xy": 0.33,
+    "z": 6.72,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 11,
+    "gif": "00388/00388_success_base00011.gif",
+    "xy": 0.98,
+    "z": 6.01,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 12,
+    "gif": "00388/00388_success_base00012.gif",
+    "xy": 0.45,
+    "z": 6.04,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 13,
+    "gif": "00388/00388_success_base00013.gif",
+    "xy": 0.49,
+    "z": 6.39,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 14,
+    "gif": "00388/00388_success_base00014.gif",
+    "xy": 0.56,
+    "z": 6.66,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 15,
+    "gif": "00388/00388_success_base00015.gif",
+    "xy": 0.48,
+    "z": 5.28,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 16,
+    "gif": "00388/00388_success_base00016.gif",
+    "xy": 0.05,
+    "z": 7.22,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 17,
+    "gif": "00388/00388_success_base00017.gif",
+    "xy": 0.33,
+    "z": 6.64,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 18,
+    "gif": "00388/00388_success_base00018.gif",
+    "xy": 0.47,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 19,
+    "gif": "00388/00388_success_base00019.gif",
+    "xy": 0.18,
+    "z": 6.45,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 20,
+    "gif": "00388/00388_success_base00020.gif",
+    "xy": 0.14,
+    "z": 4.28,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 21,
+    "gif": "00388/00388_success_base00021.gif",
+    "xy": 0.67,
+    "z": 7.26,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 23,
+    "gif": "00388/00388_success_base00023.gif",
+    "xy": 0.56,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 24,
+    "gif": "00388/00388_success_base00024.gif",
+    "xy": 0.38,
+    "z": 6.03,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 26,
+    "gif": "00388/00388_success_base00026.gif",
+    "xy": 0.88,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 28,
+    "gif": "00388/00388_success_base00028.gif",
+    "xy": 0.26,
+    "z": 3.99,
+    "native": true
+  },
+  {
+    "task": "00388",
+    "base": 29,
+    "gif": "00388/00388_success_base00029.gif",
+    "xy": 0.46,
+    "z": 6.25,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 0,
+    "gif": "00410/00410_success_base00000.gif",
+    "xy": 0.91,
+    "z": 6.22,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 1,
+    "gif": "00410/00410_success_base00001.gif",
+    "xy": 0.79,
+    "z": 6.31,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 2,
+    "gif": "00410/00410_success_base00002.gif",
+    "xy": 0.27,
+    "z": 5.22,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 3,
+    "gif": "00410/00410_success_base00003.gif",
+    "xy": 0.09,
+    "z": 7.25,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 4,
+    "gif": "00410/00410_success_base00004.gif",
+    "xy": 0.6,
+    "z": 7.97,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 5,
+    "gif": "00410/00410_success_base00005.gif",
+    "xy": 0.33,
+    "z": 6.24,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 6,
+    "gif": "00410/00410_success_base00006.gif",
+    "xy": 0.59,
+    "z": 5.71,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 7,
+    "gif": "00410/00410_success_base00007.gif",
+    "xy": 0.39,
+    "z": 5.89,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 8,
+    "gif": "00410/00410_success_base00008.gif",
+    "xy": 0.25,
+    "z": 5.75,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 9,
+    "gif": "00410/00410_success_base00009.gif",
+    "xy": 0.21,
+    "z": 5.47,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 10,
+    "gif": "00410/00410_success_base00010.gif",
+    "xy": 0.83,
+    "z": 6.19,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 11,
+    "gif": "00410/00410_success_base00011.gif",
+    "xy": 0.5,
+    "z": 7.76,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 12,
+    "gif": "00410/00410_success_base00012.gif",
+    "xy": 0.14,
+    "z": 6.56,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 13,
+    "gif": "00410/00410_success_base00013.gif",
+    "xy": 0.47,
+    "z": 7.64,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 14,
+    "gif": "00410/00410_success_base00014.gif",
+    "xy": 0.45,
+    "z": 7.67,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 15,
+    "gif": "00410/00410_success_base00015.gif",
+    "xy": 0.35,
+    "z": 7.0,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 16,
+    "gif": "00410/00410_success_base00016.gif",
+    "xy": 0.35,
+    "z": 7.64,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 17,
+    "gif": "00410/00410_success_base00017.gif",
+    "xy": 0.38,
+    "z": 7.32,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 18,
+    "gif": "00410/00410_success_base00018.gif",
+    "xy": 0.28,
+    "z": 5.55,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 19,
+    "gif": "00410/00410_success_base00019.gif",
+    "xy": 0.73,
+    "z": 7.06,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 20,
+    "gif": "00410/00410_success_base00020.gif",
+    "xy": 0.11,
+    "z": 7.1,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 21,
+    "gif": "00410/00410_success_base00021.gif",
+    "xy": 0.37,
+    "z": 6.02,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 22,
+    "gif": "00410/00410_success_base00022.gif",
+    "xy": 0.65,
+    "z": 6.34,
+    "native": true
+  },
+  {
+    "task": "00410",
+    "base": 23,
+    "gif": "00410/00410_success_base00023.gif",
+    "xy": 0.78,
+    "z": 6.29,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 0,
+    "gif": "00417/00417_success_base00000.gif",
+    "xy": 0.37,
+    "z": 6.2,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 1,
+    "gif": "00417/00417_success_base00001.gif",
+    "xy": 0.68,
+    "z": 6.72,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 2,
+    "gif": "00417/00417_success_base00002.gif",
+    "xy": 0.12,
+    "z": 7.35,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 4,
+    "gif": "00417/00417_success_base00004.gif",
+    "xy": 0.45,
+    "z": 2.69,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 5,
+    "gif": "00417/00417_success_base00005.gif",
+    "xy": 0.52,
+    "z": 7.31,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 9,
+    "gif": "00417/00417_success_base00009.gif",
+    "xy": 0.67,
+    "z": 7.84,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 10,
+    "gif": "00417/00417_success_base00010.gif",
+    "xy": 0.66,
+    "z": 6.45,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 11,
+    "gif": "00417/00417_success_base00011.gif",
+    "xy": 0.72,
+    "z": 6.93,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 12,
+    "gif": "00417/00417_success_base00012.gif",
+    "xy": 0.78,
+    "z": 7.34,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 14,
+    "gif": "00417/00417_success_base00014.gif",
+    "xy": 0.54,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 15,
+    "gif": "00417/00417_success_base00015.gif",
+    "xy": 0.46,
+    "z": 4.4,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 17,
+    "gif": "00417/00417_success_base00017.gif",
+    "xy": 0.22,
+    "z": 6.22,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 18,
+    "gif": "00417/00417_success_base00018.gif",
+    "xy": 0.51,
+    "z": 7.58,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 19,
+    "gif": "00417/00417_success_base00019.gif",
+    "xy": 0.58,
+    "z": 4.82,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 20,
+    "gif": "00417/00417_success_base00020.gif",
+    "xy": 0.22,
+    "z": 6.35,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 21,
+    "gif": "00417/00417_success_base00021.gif",
+    "xy": 0.19,
+    "z": 6.54,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 22,
+    "gif": "00417/00417_success_base00022.gif",
+    "xy": 0.61,
+    "z": 5.42,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 25,
+    "gif": "00417/00417_success_base00025.gif",
+    "xy": 0.39,
+    "z": 4.42,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 27,
+    "gif": "00417/00417_success_base00027.gif",
+    "xy": 0.61,
+    "z": 6.24,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 28,
+    "gif": "00417/00417_success_base00028.gif",
+    "xy": 0.57,
+    "z": 6.89,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 30,
+    "gif": "00417/00417_success_base00030.gif",
+    "xy": 0.51,
+    "z": 7.12,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 33,
+    "gif": "00417/00417_success_base00033.gif",
+    "xy": 0.62,
+    "z": 6.7,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 35,
+    "gif": "00417/00417_success_base00035.gif",
+    "xy": 0.79,
+    "z": 5.97,
+    "native": true
+  },
+  {
+    "task": "00417",
+    "base": 37,
+    "gif": "00417/00417_success_base00037.gif",
+    "xy": 0.57,
+    "z": 6.15,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 0,
+    "gif": "00422/00422_success_base00000.gif",
+    "xy": 1.22,
+    "z": 6.8,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 1,
+    "gif": "00422/00422_success_base00001.gif",
+    "xy": 0.25,
+    "z": 7.43,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 2,
+    "gif": "00422/00422_success_base00002.gif",
+    "xy": 0.53,
+    "z": 7.07,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 3,
+    "gif": "00422/00422_success_base00003.gif",
+    "xy": 1.17,
+    "z": 7.9,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 4,
+    "gif": "00422/00422_success_base00004.gif",
+    "xy": 0.69,
+    "z": 5.19,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 5,
+    "gif": "00422/00422_success_base00005.gif",
+    "xy": 0.41,
+    "z": 5.22,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 6,
+    "gif": "00422/00422_success_base00006.gif",
+    "xy": 1.03,
+    "z": 7.25,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 7,
+    "gif": "00422/00422_success_base00007.gif",
+    "xy": 0.7,
+    "z": 5.68,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 8,
+    "gif": "00422/00422_success_base00008.gif",
+    "xy": 0.75,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 9,
+    "gif": "00422/00422_success_base00009.gif",
+    "xy": 0.64,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 10,
+    "gif": "00422/00422_success_base00010.gif",
+    "xy": 0.63,
+    "z": 6.06,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 11,
+    "gif": "00422/00422_success_base00011.gif",
+    "xy": 1.01,
+    "z": 7.15,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 12,
+    "gif": "00422/00422_success_base00012.gif",
+    "xy": 0.52,
+    "z": 6.97,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 13,
+    "gif": "00422/00422_success_base00013.gif",
+    "xy": 0.16,
+    "z": 6.63,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 14,
+    "gif": "00422/00422_success_base00014.gif",
+    "xy": 0.35,
+    "z": 7.22,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 15,
+    "gif": "00422/00422_success_base00015.gif",
+    "xy": 0.85,
+    "z": 7.61,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 16,
+    "gif": "00422/00422_success_base00016.gif",
+    "xy": 0.58,
+    "z": 6.71,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 17,
+    "gif": "00422/00422_success_base00017.gif",
+    "xy": 0.82,
+    "z": 6.23,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 18,
+    "gif": "00422/00422_success_base00018.gif",
+    "xy": 0.38,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 19,
+    "gif": "00422/00422_success_base00019.gif",
+    "xy": 1.07,
+    "z": 7.67,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 20,
+    "gif": "00422/00422_success_base00020.gif",
+    "xy": 0.95,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 21,
+    "gif": "00422/00422_success_base00021.gif",
+    "xy": 0.62,
+    "z": 6.74,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 22,
+    "gif": "00422/00422_success_base00022.gif",
+    "xy": 0.41,
+    "z": 7.15,
+    "native": true
+  },
+  {
+    "task": "00422",
+    "base": 23,
+    "gif": "00422/00422_success_base00023.gif",
+    "xy": 0.42,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 0,
+    "gif": "00446/00446_success_base00000.gif",
+    "xy": 1.9,
+    "z": 7.18,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 1,
+    "gif": "00446/00446_success_base00001.gif",
+    "xy": 2.02,
+    "z": 6.87,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 2,
+    "gif": "00446/00446_success_base00002.gif",
+    "xy": 2.77,
+    "z": 6.49,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 3,
+    "gif": "00446/00446_success_base00003.gif",
+    "xy": 2.64,
+    "z": 6.47,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 4,
+    "gif": "00446/00446_success_base00004.gif",
+    "xy": 2.19,
+    "z": 7.75,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 5,
+    "gif": "00446/00446_success_base00005.gif",
+    "xy": 2.3,
+    "z": 7.04,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 6,
+    "gif": "00446/00446_success_base00006.gif",
+    "xy": 1.51,
+    "z": 7.79,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 7,
+    "gif": "00446/00446_success_base00007.gif",
+    "xy": 1.6,
+    "z": 8.27,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 8,
+    "gif": "00446/00446_success_base00008.gif",
+    "xy": 0.94,
+    "z": 8.04,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 9,
+    "gif": "00446/00446_success_base00009.gif",
+    "xy": 0.55,
+    "z": 7.43,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 10,
+    "gif": "00446/00446_success_base00010.gif",
+    "xy": 0.59,
+    "z": 6.21,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 11,
+    "gif": "00446/00446_success_base00011.gif",
+    "xy": 2.95,
+    "z": 5.82,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 12,
+    "gif": "00446/00446_success_base00012.gif",
+    "xy": 0.92,
+    "z": 7.8,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 13,
+    "gif": "00446/00446_success_base00013.gif",
+    "xy": 0.99,
+    "z": 6.15,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 14,
+    "gif": "00446/00446_success_base00014.gif",
+    "xy": 1.02,
+    "z": 8.4,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 15,
+    "gif": "00446/00446_success_base00015.gif",
+    "xy": 2.85,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 16,
+    "gif": "00446/00446_success_base00016.gif",
+    "xy": 2.77,
+    "z": 8.71,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 17,
+    "gif": "00446/00446_success_base00017.gif",
+    "xy": 2.27,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 18,
+    "gif": "00446/00446_success_base00018.gif",
+    "xy": 2.14,
+    "z": 7.79,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 19,
+    "gif": "00446/00446_success_base00019.gif",
+    "xy": 0.13,
+    "z": 8.0,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 20,
+    "gif": "00446/00446_success_base00020.gif",
+    "xy": 1.57,
+    "z": 6.22,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 21,
+    "gif": "00446/00446_success_base00021.gif",
+    "xy": 0.69,
+    "z": 7.54,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 22,
+    "gif": "00446/00446_success_base00022.gif",
+    "xy": 1.26,
+    "z": 7.58,
+    "native": true
+  },
+  {
+    "task": "00446",
+    "base": 23,
+    "gif": "00446/00446_success_base00023.gif",
+    "xy": 2.71,
+    "z": 5.66,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 0,
+    "gif": "00480/00480_success_base00000.gif",
+    "xy": 0.6,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 1,
+    "gif": "00480/00480_success_base00001.gif",
+    "xy": 0.71,
+    "z": 7.02,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 2,
+    "gif": "00480/00480_success_base00002.gif",
+    "xy": 0.38,
+    "z": 7.0,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 4,
+    "gif": "00480/00480_success_base00004.gif",
+    "xy": 0.43,
+    "z": 7.35,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 5,
+    "gif": "00480/00480_success_base00005.gif",
+    "xy": 0.54,
+    "z": 7.34,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 7,
+    "gif": "00480/00480_success_base00007.gif",
+    "xy": 0.59,
+    "z": 6.7,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 8,
+    "gif": "00480/00480_success_base00008.gif",
+    "xy": 0.52,
+    "z": 6.4,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 9,
+    "gif": "00480/00480_success_base00009.gif",
+    "xy": 0.28,
+    "z": 6.7,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 10,
+    "gif": "00480/00480_success_base00010.gif",
+    "xy": 0.18,
+    "z": 7.23,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 11,
+    "gif": "00480/00480_success_base00011.gif",
+    "xy": 0.54,
+    "z": 6.51,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 12,
+    "gif": "00480/00480_success_base00012.gif",
+    "xy": 0.65,
+    "z": 4.29,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 13,
+    "gif": "00480/00480_success_base00013.gif",
+    "xy": 0.37,
+    "z": 6.71,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 14,
+    "gif": "00480/00480_success_base00014.gif",
+    "xy": 0.33,
+    "z": 5.77,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 15,
+    "gif": "00480/00480_success_base00015.gif",
+    "xy": 1.13,
+    "z": 5.41,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 16,
+    "gif": "00480/00480_success_base00016.gif",
+    "xy": 0.72,
+    "z": 4.87,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 17,
+    "gif": "00480/00480_success_base00017.gif",
+    "xy": 0.46,
+    "z": 6.12,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 19,
+    "gif": "00480/00480_success_base00019.gif",
+    "xy": 0.34,
+    "z": 5.18,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 20,
+    "gif": "00480/00480_success_base00020.gif",
+    "xy": 0.41,
+    "z": 5.24,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 21,
+    "gif": "00480/00480_success_base00021.gif",
+    "xy": 0.46,
+    "z": 5.86,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 22,
+    "gif": "00480/00480_success_base00022.gif",
+    "xy": 0.33,
+    "z": 6.09,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 23,
+    "gif": "00480/00480_success_base00023.gif",
+    "xy": 0.29,
+    "z": 7.7,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 24,
+    "gif": "00480/00480_success_base00024.gif",
+    "xy": 0.47,
+    "z": 5.82,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 25,
+    "gif": "00480/00480_success_base00025.gif",
+    "xy": 0.73,
+    "z": 4.43,
+    "native": true
+  },
+  {
+    "task": "00480",
+    "base": 26,
+    "gif": "00480/00480_success_base00026.gif",
+    "xy": 0.39,
+    "z": 5.37,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 0,
+    "gif": "00486/00486_success_base00000.gif",
+    "xy": 1.23,
+    "z": 7.52,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 1,
+    "gif": "00486/00486_success_base00001.gif",
+    "xy": 1.1,
+    "z": 7.64,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 2,
+    "gif": "00486/00486_success_base00002.gif",
+    "xy": 0.82,
+    "z": 9.26,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 3,
+    "gif": "00486/00486_success_base00003.gif",
+    "xy": 1.57,
+    "z": 8.15,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 4,
+    "gif": "00486/00486_success_base00004.gif",
+    "xy": 0.63,
+    "z": 6.61,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 5,
+    "gif": "00486/00486_success_base00005.gif",
+    "xy": 0.16,
+    "z": 8.01,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 6,
+    "gif": "00486/00486_success_base00006.gif",
+    "xy": 0.71,
+    "z": 9.97,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 7,
+    "gif": "00486/00486_success_base00007.gif",
+    "xy": 1.18,
+    "z": 8.35,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 8,
+    "gif": "00486/00486_success_base00008.gif",
+    "xy": 0.12,
+    "z": 7.69,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 9,
+    "gif": "00486/00486_success_base00009.gif",
+    "xy": 0.93,
+    "z": 7.27,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 10,
+    "gif": "00486/00486_success_base00010.gif",
+    "xy": 0.94,
+    "z": 6.2,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 11,
+    "gif": "00486/00486_success_base00011.gif",
+    "xy": 1.66,
+    "z": 8.57,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 12,
+    "gif": "00486/00486_success_base00012.gif",
+    "xy": 0.64,
+    "z": 8.58,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 13,
+    "gif": "00486/00486_success_base00013.gif",
+    "xy": 0.16,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 14,
+    "gif": "00486/00486_success_base00014.gif",
+    "xy": 1.29,
+    "z": 9.53,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 15,
+    "gif": "00486/00486_success_base00015.gif",
+    "xy": 0.49,
+    "z": 7.74,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 16,
+    "gif": "00486/00486_success_base00016.gif",
+    "xy": 0.25,
+    "z": 7.73,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 17,
+    "gif": "00486/00486_success_base00017.gif",
+    "xy": 0.61,
+    "z": 8.51,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 18,
+    "gif": "00486/00486_success_base00018.gif",
+    "xy": 1.01,
+    "z": 8.28,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 19,
+    "gif": "00486/00486_success_base00019.gif",
+    "xy": 0.26,
+    "z": 8.73,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 20,
+    "gif": "00486/00486_success_base00020.gif",
+    "xy": 0.46,
+    "z": 8.09,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 21,
+    "gif": "00486/00486_success_base00021.gif",
+    "xy": 0.53,
+    "z": 9.42,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 22,
+    "gif": "00486/00486_success_base00022.gif",
+    "xy": 0.91,
+    "z": 8.62,
+    "native": true
+  },
+  {
+    "task": "00486",
+    "base": 23,
+    "gif": "00486/00486_success_base00023.gif",
+    "xy": 1.64,
+    "z": 8.08,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 0,
+    "gif": "00499/00499_success_base00000.gif",
+    "xy": 0.56,
+    "z": 8.01,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 1,
+    "gif": "00499/00499_success_base00001.gif",
+    "xy": 0.43,
+    "z": 3.55,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 2,
+    "gif": "00499/00499_success_base00002.gif",
+    "xy": 0.17,
+    "z": 8.18,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 3,
+    "gif": "00499/00499_success_base00003.gif",
+    "xy": 0.71,
+    "z": 6.36,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 4,
+    "gif": "00499/00499_success_base00004.gif",
+    "xy": 0.59,
+    "z": 7.1,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 5,
+    "gif": "00499/00499_success_base00005.gif",
+    "xy": 1.32,
+    "z": 8.15,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 6,
+    "gif": "00499/00499_success_base00006.gif",
+    "xy": 0.62,
+    "z": 7.76,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 7,
+    "gif": "00499/00499_success_base00007.gif",
+    "xy": 0.24,
+    "z": 7.15,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 8,
+    "gif": "00499/00499_success_base00008.gif",
+    "xy": 1.3,
+    "z": 6.74,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 9,
+    "gif": "00499/00499_success_base00009.gif",
+    "xy": 0.45,
+    "z": 6.03,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 10,
+    "gif": "00499/00499_success_base00010.gif",
+    "xy": 0.68,
+    "z": 6.1,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 11,
+    "gif": "00499/00499_success_base00011.gif",
+    "xy": 1.39,
+    "z": 7.81,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 12,
+    "gif": "00499/00499_success_base00012.gif",
+    "xy": 0.98,
+    "z": 6.27,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 13,
+    "gif": "00499/00499_success_base00013.gif",
+    "xy": 0.66,
+    "z": 6.54,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 14,
+    "gif": "00499/00499_success_base00014.gif",
+    "xy": 1.32,
+    "z": 6.62,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 15,
+    "gif": "00499/00499_success_base00015.gif",
+    "xy": 0.64,
+    "z": 7.29,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 16,
+    "gif": "00499/00499_success_base00016.gif",
+    "xy": 1.81,
+    "z": 5.49,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 17,
+    "gif": "00499/00499_success_base00017.gif",
+    "xy": 0.15,
+    "z": 8.36,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 18,
+    "gif": "00499/00499_success_base00018.gif",
+    "xy": 0.85,
+    "z": 7.9,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 19,
+    "gif": "00499/00499_success_base00019.gif",
+    "xy": 0.48,
+    "z": 6.27,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 20,
+    "gif": "00499/00499_success_base00020.gif",
+    "xy": 0.54,
+    "z": 5.08,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 21,
+    "gif": "00499/00499_success_base00021.gif",
+    "xy": 0.77,
+    "z": 8.36,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 22,
+    "gif": "00499/00499_success_base00022.gif",
+    "xy": 1.64,
+    "z": 7.49,
+    "native": true
+  },
+  {
+    "task": "00499",
+    "base": 23,
+    "gif": "00499/00499_success_base00023.gif",
+    "xy": 0.61,
+    "z": 6.2,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 0,
+    "gif": "00514/00514_success_base00000.gif",
+    "xy": 0.36,
+    "z": 5.41,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 1,
+    "gif": "00514/00514_success_base00001.gif",
+    "xy": 0.81,
+    "z": 6.12,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 2,
+    "gif": "00514/00514_success_base00002.gif",
+    "xy": 0.27,
+    "z": 7.16,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 3,
+    "gif": "00514/00514_success_base00003.gif",
+    "xy": 0.42,
+    "z": 6.47,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 5,
+    "gif": "00514/00514_success_base00005.gif",
+    "xy": 0.27,
+    "z": 7.62,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 6,
+    "gif": "00514/00514_success_base00006.gif",
+    "xy": 0.28,
+    "z": 7.59,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 7,
+    "gif": "00514/00514_success_base00007.gif",
+    "xy": 0.62,
+    "z": 7.01,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 8,
+    "gif": "00514/00514_success_base00008.gif",
+    "xy": 0.25,
+    "z": 7.45,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 9,
+    "gif": "00514/00514_success_base00009.gif",
+    "xy": 0.89,
+    "z": 7.1,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 10,
+    "gif": "00514/00514_success_base00010.gif",
+    "xy": 0.6,
+    "z": 7.38,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 11,
+    "gif": "00514/00514_success_base00011.gif",
+    "xy": 0.28,
+    "z": 7.39,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 12,
+    "gif": "00514/00514_success_base00012.gif",
+    "xy": 0.13,
+    "z": 6.69,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 13,
+    "gif": "00514/00514_success_base00013.gif",
+    "xy": 0.21,
+    "z": 6.63,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 14,
+    "gif": "00514/00514_success_base00014.gif",
+    "xy": 0.16,
+    "z": 6.9,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 17,
+    "gif": "00514/00514_success_base00017.gif",
+    "xy": 0.24,
+    "z": 7.01,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 18,
+    "gif": "00514/00514_success_base00018.gif",
+    "xy": 0.62,
+    "z": 4.68,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 19,
+    "gif": "00514/00514_success_base00019.gif",
+    "xy": 0.49,
+    "z": 5.1,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 20,
+    "gif": "00514/00514_success_base00020.gif",
+    "xy": 0.16,
+    "z": 7.12,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 21,
+    "gif": "00514/00514_success_base00021.gif",
+    "xy": 0.78,
+    "z": 7.38,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 22,
+    "gif": "00514/00514_success_base00022.gif",
+    "xy": 0.53,
+    "z": 7.11,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 23,
+    "gif": "00514/00514_success_base00023.gif",
+    "xy": 0.46,
+    "z": 4.41,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 24,
+    "gif": "00514/00514_success_base00024.gif",
+    "xy": 0.19,
+    "z": 4.58,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 25,
+    "gif": "00514/00514_success_base00025.gif",
+    "xy": 0.12,
+    "z": 5.4,
+    "native": true
+  },
+  {
+    "task": "00514",
+    "base": 26,
+    "gif": "00514/00514_success_base00026.gif",
+    "xy": 0.31,
+    "z": 7.06,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 0,
+    "gif": "00553/00553_success_base00000.gif",
+    "xy": 1.5,
+    "z": 6.36,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 1,
+    "gif": "00553/00553_success_base00001.gif",
+    "xy": 0.5,
+    "z": 6.82,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 2,
+    "gif": "00553/00553_success_base00002.gif",
+    "xy": 0.39,
+    "z": 7.72,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 3,
+    "gif": "00553/00553_success_base00003.gif",
+    "xy": 0.78,
+    "z": 7.7,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 4,
+    "gif": "00553/00553_success_base00004.gif",
+    "xy": 1.14,
+    "z": 6.87,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 5,
+    "gif": "00553/00553_success_base00005.gif",
+    "xy": 0.38,
+    "z": 5.32,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 6,
+    "gif": "00553/00553_success_base00006.gif",
+    "xy": 0.34,
+    "z": 6.33,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 7,
+    "gif": "00553/00553_success_base00007.gif",
+    "xy": 0.39,
+    "z": 5.73,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 8,
+    "gif": "00553/00553_success_base00008.gif",
+    "xy": 1.53,
+    "z": 7.49,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 9,
+    "gif": "00553/00553_success_base00009.gif",
+    "xy": 0.85,
+    "z": 7.45,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 10,
+    "gif": "00553/00553_success_base00010.gif",
+    "xy": 0.44,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 11,
+    "gif": "00553/00553_success_base00011.gif",
+    "xy": 0.58,
+    "z": 7.1,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 12,
+    "gif": "00553/00553_success_base00012.gif",
+    "xy": 1.25,
+    "z": 5.55,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 13,
+    "gif": "00553/00553_success_base00013.gif",
+    "xy": 0.89,
+    "z": 6.91,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 14,
+    "gif": "00553/00553_success_base00014.gif",
+    "xy": 0.48,
+    "z": 6.97,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 15,
+    "gif": "00553/00553_success_base00015.gif",
+    "xy": 0.63,
+    "z": 7.07,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 16,
+    "gif": "00553/00553_success_base00016.gif",
+    "xy": 0.44,
+    "z": 6.04,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 17,
+    "gif": "00553/00553_success_base00017.gif",
+    "xy": 0.6,
+    "z": 7.21,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 18,
+    "gif": "00553/00553_success_base00018.gif",
+    "xy": 1.14,
+    "z": 8.56,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 19,
+    "gif": "00553/00553_success_base00019.gif",
+    "xy": 0.55,
+    "z": 6.89,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 20,
+    "gif": "00553/00553_success_base00020.gif",
+    "xy": 0.79,
+    "z": 9.15,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 21,
+    "gif": "00553/00553_success_base00021.gif",
+    "xy": 0.37,
+    "z": 8.09,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 22,
+    "gif": "00553/00553_success_base00022.gif",
+    "xy": 0.27,
+    "z": 6.39,
+    "native": true
+  },
+  {
+    "task": "00553",
+    "base": 23,
+    "gif": "00553/00553_success_base00023.gif",
+    "xy": 0.66,
+    "z": 8.04,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 0,
+    "gif": "00581/00581_success_base00000.gif",
+    "xy": 0.45,
+    "z": 7.17,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 1,
+    "gif": "00581/00581_success_base00001.gif",
+    "xy": 1.57,
+    "z": 7.74,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 2,
+    "gif": "00581/00581_success_base00002.gif",
+    "xy": 1.63,
+    "z": 9.08,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 3,
+    "gif": "00581/00581_success_base00003.gif",
+    "xy": 1.0,
+    "z": 5.64,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 4,
+    "gif": "00581/00581_success_base00004.gif",
+    "xy": 0.98,
+    "z": 7.6,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 5,
+    "gif": "00581/00581_success_base00005.gif",
+    "xy": 0.31,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 6,
+    "gif": "00581/00581_success_base00006.gif",
+    "xy": 0.49,
+    "z": 6.85,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 7,
+    "gif": "00581/00581_success_base00007.gif",
+    "xy": 0.38,
+    "z": 7.87,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 8,
+    "gif": "00581/00581_success_base00008.gif",
+    "xy": 1.68,
+    "z": 7.78,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 9,
+    "gif": "00581/00581_success_base00009.gif",
+    "xy": 0.9,
+    "z": 7.84,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 10,
+    "gif": "00581/00581_success_base00010.gif",
+    "xy": 0.5,
+    "z": 5.39,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 11,
+    "gif": "00581/00581_success_base00011.gif",
+    "xy": 1.39,
+    "z": 7.62,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 12,
+    "gif": "00581/00581_success_base00012.gif",
+    "xy": 0.93,
+    "z": 7.87,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 13,
+    "gif": "00581/00581_success_base00013.gif",
+    "xy": 0.91,
+    "z": 8.26,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 14,
+    "gif": "00581/00581_success_base00014.gif",
+    "xy": 2.22,
+    "z": 7.63,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 15,
+    "gif": "00581/00581_success_base00015.gif",
+    "xy": 1.11,
+    "z": 7.16,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 16,
+    "gif": "00581/00581_success_base00016.gif",
+    "xy": 0.61,
+    "z": 7.93,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 17,
+    "gif": "00581/00581_success_base00017.gif",
+    "xy": 0.72,
+    "z": 7.83,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 18,
+    "gif": "00581/00581_success_base00018.gif",
+    "xy": 0.87,
+    "z": 7.8,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 19,
+    "gif": "00581/00581_success_base00019.gif",
+    "xy": 0.72,
+    "z": 8.14,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 20,
+    "gif": "00581/00581_success_base00020.gif",
+    "xy": 0.42,
+    "z": 7.93,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 21,
+    "gif": "00581/00581_success_base00021.gif",
+    "xy": 0.57,
+    "z": 8.17,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 22,
+    "gif": "00581/00581_success_base00022.gif",
+    "xy": 0.37,
+    "z": 7.54,
+    "native": true
+  },
+  {
+    "task": "00581",
+    "base": 23,
+    "gif": "00581/00581_success_base00023.gif",
+    "xy": 1.41,
+    "z": 6.95,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 0,
+    "gif": "00649/00649_success_base00000.gif",
+    "xy": 0.53,
+    "z": 5.08,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 1,
+    "gif": "00649/00649_success_base00001.gif",
+    "xy": 0.05,
+    "z": 6.38,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 2,
+    "gif": "00649/00649_success_base00002.gif",
+    "xy": 0.26,
+    "z": 5.0,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 3,
+    "gif": "00649/00649_success_base00003.gif",
+    "xy": 0.54,
+    "z": 5.3,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 5,
+    "gif": "00649/00649_success_base00005.gif",
+    "xy": 0.82,
+    "z": 5.1,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 6,
+    "gif": "00649/00649_success_base00006.gif",
+    "xy": 0.4,
+    "z": 7.99,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 7,
+    "gif": "00649/00649_success_base00007.gif",
+    "xy": 0.23,
+    "z": 3.92,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 8,
+    "gif": "00649/00649_success_base00008.gif",
+    "xy": 0.51,
+    "z": 5.96,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 9,
+    "gif": "00649/00649_success_base00009.gif",
+    "xy": 0.2,
+    "z": 5.92,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 10,
+    "gif": "00649/00649_success_base00010.gif",
+    "xy": 0.71,
+    "z": 6.99,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 11,
+    "gif": "00649/00649_success_base00011.gif",
+    "xy": 0.26,
+    "z": 6.01,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 12,
+    "gif": "00649/00649_success_base00012.gif",
+    "xy": 0.54,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 13,
+    "gif": "00649/00649_success_base00013.gif",
+    "xy": 0.8,
+    "z": 4.93,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 14,
+    "gif": "00649/00649_success_base00014.gif",
+    "xy": 0.84,
+    "z": 5.75,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 15,
+    "gif": "00649/00649_success_base00015.gif",
+    "xy": 0.52,
+    "z": 4.47,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 16,
+    "gif": "00649/00649_success_base00016.gif",
+    "xy": 0.19,
+    "z": 5.5,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 17,
+    "gif": "00649/00649_success_base00017.gif",
+    "xy": 0.46,
+    "z": 6.07,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 18,
+    "gif": "00649/00649_success_base00018.gif",
+    "xy": 0.49,
+    "z": 5.59,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 19,
+    "gif": "00649/00649_success_base00019.gif",
+    "xy": 0.48,
+    "z": 7.71,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 20,
+    "gif": "00649/00649_success_base00020.gif",
+    "xy": 0.78,
+    "z": 4.88,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 21,
+    "gif": "00649/00649_success_base00021.gif",
+    "xy": 0.82,
+    "z": 5.11,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 22,
+    "gif": "00649/00649_success_base00022.gif",
+    "xy": 0.44,
+    "z": 5.84,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 23,
+    "gif": "00649/00649_success_base00023.gif",
+    "xy": 0.72,
+    "z": 5.34,
+    "native": true
+  },
+  {
+    "task": "00649",
+    "base": 24,
+    "gif": "00649/00649_success_base00024.gif",
+    "xy": 0.77,
+    "z": 5.69,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 0,
+    "gif": "00652/00652_success_base00000.gif",
+    "xy": 0.17,
+    "z": 4.09,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 1,
+    "gif": "00652/00652_success_base00001.gif",
+    "xy": 0.03,
+    "z": 5.28,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 2,
+    "gif": "00652/00652_success_base00002.gif",
+    "xy": 0.04,
+    "z": 3.34,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 3,
+    "gif": "00652/00652_success_base00003.gif",
+    "xy": 0.19,
+    "z": 4.6,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 4,
+    "gif": "00652/00652_success_base00004.gif",
+    "xy": 0.49,
+    "z": 2.98,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 5,
+    "gif": "00652/00652_success_base00005.gif",
+    "xy": 0.09,
+    "z": 4.73,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 6,
+    "gif": "00652/00652_success_base00006.gif",
+    "xy": 0.16,
+    "z": 3.04,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 7,
+    "gif": "00652/00652_success_base00007.gif",
+    "xy": 0.34,
+    "z": 4.96,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 8,
+    "gif": "00652/00652_success_base00008.gif",
+    "xy": 0.24,
+    "z": 4.03,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 9,
+    "gif": "00652/00652_success_base00009.gif",
+    "xy": 0.42,
+    "z": 3.32,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 10,
+    "gif": "00652/00652_success_base00010.gif",
+    "xy": 0.42,
+    "z": 4.66,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 11,
+    "gif": "00652/00652_success_base00011.gif",
+    "xy": 0.29,
+    "z": 3.31,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 12,
+    "gif": "00652/00652_success_base00012.gif",
+    "xy": 0.17,
+    "z": 0.36,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 13,
+    "gif": "00652/00652_success_base00013.gif",
+    "xy": 1.54,
+    "z": 1.11,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 14,
+    "gif": "00652/00652_success_base00014.gif",
+    "xy": 0.67,
+    "z": 4.99,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 15,
+    "gif": "00652/00652_success_base00015.gif",
+    "xy": 0.18,
+    "z": 3.48,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 16,
+    "gif": "00652/00652_success_base00016.gif",
+    "xy": 0.33,
+    "z": 2.95,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 17,
+    "gif": "00652/00652_success_base00017.gif",
+    "xy": 0.25,
+    "z": 4.68,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 18,
+    "gif": "00652/00652_success_base00018.gif",
+    "xy": 0.76,
+    "z": 2.32,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 19,
+    "gif": "00652/00652_success_base00019.gif",
+    "xy": 0.49,
+    "z": 2.28,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 20,
+    "gif": "00652/00652_success_base00020.gif",
+    "xy": 0.44,
+    "z": 4.94,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 21,
+    "gif": "00652/00652_success_base00021.gif",
+    "xy": 0.42,
+    "z": 2.75,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 22,
+    "gif": "00652/00652_success_base00022.gif",
+    "xy": 0.09,
+    "z": 4.04,
+    "native": true
+  },
+  {
+    "task": "00652",
+    "base": 23,
+    "gif": "00652/00652_success_base00023.gif",
+    "xy": 0.3,
+    "z": 4.41,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 1,
+    "gif": "00659/00659_success_base00001.gif",
+    "xy": 0.61,
+    "z": 4.86,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 2,
+    "gif": "00659/00659_success_base00002.gif",
+    "xy": 0.65,
+    "z": 7.45,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 3,
+    "gif": "00659/00659_success_base00003.gif",
+    "xy": 0.78,
+    "z": 3.39,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 4,
+    "gif": "00659/00659_success_base00004.gif",
+    "xy": 0.46,
+    "z": 7.45,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 6,
+    "gif": "00659/00659_success_base00006.gif",
+    "xy": 0.23,
+    "z": 5.43,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 7,
+    "gif": "00659/00659_success_base00007.gif",
+    "xy": 0.57,
+    "z": 4.15,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 9,
+    "gif": "00659/00659_success_base00009.gif",
+    "xy": 0.54,
+    "z": 6.28,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 10,
+    "gif": "00659/00659_success_base00010.gif",
+    "xy": 0.59,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 11,
+    "gif": "00659/00659_success_base00011.gif",
+    "xy": 0.27,
+    "z": 7.28,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 13,
+    "gif": "00659/00659_success_base00013.gif",
+    "xy": 0.29,
+    "z": 5.79,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 14,
+    "gif": "00659/00659_success_base00014.gif",
+    "xy": 0.38,
+    "z": 5.94,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 15,
+    "gif": "00659/00659_success_base00015.gif",
+    "xy": 0.85,
+    "z": 5.3,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 17,
+    "gif": "00659/00659_success_base00017.gif",
+    "xy": 0.73,
+    "z": 6.69,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 19,
+    "gif": "00659/00659_success_base00019.gif",
+    "xy": 0.56,
+    "z": 5.8,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 20,
+    "gif": "00659/00659_success_base00020.gif",
+    "xy": 0.43,
+    "z": 5.85,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 22,
+    "gif": "00659/00659_success_base00022.gif",
+    "xy": 1.43,
+    "z": 5.36,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 23,
+    "gif": "00659/00659_success_base00023.gif",
+    "xy": 0.79,
+    "z": 6.83,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 24,
+    "gif": "00659/00659_success_base00024.gif",
+    "xy": 0.41,
+    "z": 6.03,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 25,
+    "gif": "00659/00659_success_base00025.gif",
+    "xy": 0.48,
+    "z": 4.96,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 27,
+    "gif": "00659/00659_success_base00027.gif",
+    "xy": 0.78,
+    "z": 5.58,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 28,
+    "gif": "00659/00659_success_base00028.gif",
+    "xy": 0.3,
+    "z": 6.32,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 29,
+    "gif": "00659/00659_success_base00029.gif",
+    "xy": 0.46,
+    "z": 5.79,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 30,
+    "gif": "00659/00659_success_base00030.gif",
+    "xy": 0.34,
+    "z": 7.18,
+    "native": true
+  },
+  {
+    "task": "00659",
+    "base": 32,
+    "gif": "00659/00659_success_base00032.gif",
+    "xy": 0.52,
+    "z": 5.83,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 0,
+    "gif": "00686/00686_success_base00000.gif",
+    "xy": 1.22,
+    "z": 5.54,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 1,
+    "gif": "00686/00686_success_base00001.gif",
+    "xy": 0.85,
+    "z": 6.12,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 2,
+    "gif": "00686/00686_success_base00002.gif",
+    "xy": 0.67,
+    "z": 3.69,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 3,
+    "gif": "00686/00686_success_base00003.gif",
+    "xy": 1.05,
+    "z": 6.91,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 4,
+    "gif": "00686/00686_success_base00004.gif",
+    "xy": 4.07,
+    "z": 6.19,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 5,
+    "gif": "00686/00686_success_base00005.gif",
+    "xy": 0.62,
+    "z": 5.66,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 6,
+    "gif": "00686/00686_success_base00006.gif",
+    "xy": 1.14,
+    "z": 6.55,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 7,
+    "gif": "00686/00686_success_base00007.gif",
+    "xy": 0.64,
+    "z": 7.06,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 8,
+    "gif": "00686/00686_success_base00008.gif",
+    "xy": 1.07,
+    "z": 5.86,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 9,
+    "gif": "00686/00686_success_base00009.gif",
+    "xy": 0.27,
+    "z": 5.28,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 10,
+    "gif": "00686/00686_success_base00010.gif",
+    "xy": 0.35,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 11,
+    "gif": "00686/00686_success_base00011.gif",
+    "xy": 0.52,
+    "z": 5.01,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 12,
+    "gif": "00686/00686_success_base00012.gif",
+    "xy": 0.21,
+    "z": 5.35,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 13,
+    "gif": "00686/00686_success_base00013.gif",
+    "xy": 1.95,
+    "z": 6.6,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 14,
+    "gif": "00686/00686_success_base00014.gif",
+    "xy": 0.57,
+    "z": 6.53,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 15,
+    "gif": "00686/00686_success_base00015.gif",
+    "xy": 0.98,
+    "z": 5.25,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 16,
+    "gif": "00686/00686_success_base00016.gif",
+    "xy": 0.67,
+    "z": 7.75,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 17,
+    "gif": "00686/00686_success_base00017.gif",
+    "xy": 0.6,
+    "z": 5.44,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 18,
+    "gif": "00686/00686_success_base00018.gif",
+    "xy": 0.92,
+    "z": 6.51,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 19,
+    "gif": "00686/00686_success_base00019.gif",
+    "xy": 3.07,
+    "z": 5.9,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 20,
+    "gif": "00686/00686_success_base00020.gif",
+    "xy": 0.7,
+    "z": 7.42,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 21,
+    "gif": "00686/00686_success_base00021.gif",
+    "xy": 1.21,
+    "z": 5.16,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 22,
+    "gif": "00686/00686_success_base00022.gif",
+    "xy": 1.1,
+    "z": 7.18,
+    "native": true
+  },
+  {
+    "task": "00686",
+    "base": 23,
+    "gif": "00686/00686_success_base00023.gif",
+    "xy": 0.61,
+    "z": 5.4,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 10,
+    "gif": "00731/00731_success_base00010.gif",
+    "xy": 0.37,
+    "z": 12.0,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 11,
+    "gif": "00731/00731_success_base00011.gif",
+    "xy": 0.66,
+    "z": 14.1,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 14,
+    "gif": "00731/00731_success_base00014.gif",
+    "xy": 0.26,
+    "z": 12.07,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 27,
+    "gif": "00731/00731_success_base00027.gif",
+    "xy": 0.72,
+    "z": 11.92,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 29,
+    "gif": "00731/00731_success_base00029.gif",
+    "xy": 0.21,
+    "z": 13.02,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 35,
+    "gif": "00731/00731_success_base00035.gif",
+    "xy": 0.55,
+    "z": 11.83,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 38,
+    "gif": "00731/00731_success_base00038.gif",
+    "xy": 0.52,
+    "z": 13.13,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 54,
+    "gif": "00731/00731_success_base00054.gif",
+    "xy": 1.02,
+    "z": 12.32,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 56,
+    "gif": "00731/00731_success_base00056.gif",
+    "xy": 0.47,
+    "z": 7.66,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 58,
+    "gif": "00731/00731_success_base00058.gif",
+    "xy": 1.24,
+    "z": 11.15,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 59,
+    "gif": "00731/00731_success_base00059.gif",
+    "xy": 0.15,
+    "z": 11.85,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 61,
+    "gif": "00731/00731_success_base00061.gif",
+    "xy": 0.39,
+    "z": 11.26,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 67,
+    "gif": "00731/00731_success_base00067.gif",
+    "xy": 0.39,
+    "z": 11.13,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 71,
+    "gif": "00731/00731_success_base00071.gif",
+    "xy": 1.05,
+    "z": 10.51,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 72,
+    "gif": "00731/00731_success_base00072.gif",
+    "xy": 0.76,
+    "z": 11.09,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 73,
+    "gif": "00731/00731_success_base00073.gif",
+    "xy": 0.76,
+    "z": 11.29,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 74,
+    "gif": "00731/00731_success_base00074.gif",
+    "xy": 0.52,
+    "z": 11.54,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 76,
+    "gif": "00731/00731_success_base00076.gif",
+    "xy": 0.85,
+    "z": 12.59,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 84,
+    "gif": "00731/00731_success_base00084.gif",
+    "xy": 0.8,
+    "z": 12.67,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 85,
+    "gif": "00731/00731_success_base00085.gif",
+    "xy": 0.32,
+    "z": 13.5,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 88,
+    "gif": "00731/00731_success_base00088.gif",
+    "xy": 0.52,
+    "z": 11.68,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 94,
+    "gif": "00731/00731_success_base00094.gif",
+    "xy": 0.51,
+    "z": 10.9,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 96,
+    "gif": "00731/00731_success_base00096.gif",
+    "xy": 1.38,
+    "z": 11.86,
+    "native": true
+  },
+  {
+    "task": "00731",
+    "base": 99,
+    "gif": "00731/00731_success_base00099.gif",
+    "xy": 0.55,
+    "z": 12.92,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 0,
+    "gif": "00741/00741_success_base00000.gif",
+    "xy": 2.89,
+    "z": 5.42,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 1,
+    "gif": "00741/00741_success_base00001.gif",
+    "xy": 3.06,
+    "z": 5.17,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 2,
+    "gif": "00741/00741_success_base00002.gif",
+    "xy": 3.38,
+    "z": 5.44,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 3,
+    "gif": "00741/00741_success_base00003.gif",
+    "xy": 3.23,
+    "z": 5.32,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 4,
+    "gif": "00741/00741_success_base00004.gif",
+    "xy": 3.38,
+    "z": 5.51,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 5,
+    "gif": "00741/00741_success_base00005.gif",
+    "xy": 3.47,
+    "z": 5.39,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 6,
+    "gif": "00741/00741_success_base00006.gif",
+    "xy": 3.49,
+    "z": 5.33,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 7,
+    "gif": "00741/00741_success_base00007.gif",
+    "xy": 3.48,
+    "z": 4.76,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 8,
+    "gif": "00741/00741_success_base00008.gif",
+    "xy": 3.59,
+    "z": 5.58,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 9,
+    "gif": "00741/00741_success_base00009.gif",
+    "xy": 3.03,
+    "z": 5.27,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 10,
+    "gif": "00741/00741_success_base00010.gif",
+    "xy": 3.35,
+    "z": 5.25,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 11,
+    "gif": "00741/00741_success_base00011.gif",
+    "xy": 3.42,
+    "z": 5.62,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 12,
+    "gif": "00741/00741_success_base00012.gif",
+    "xy": 3.28,
+    "z": 5.18,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 13,
+    "gif": "00741/00741_success_base00013.gif",
+    "xy": 3.39,
+    "z": 5.44,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 14,
+    "gif": "00741/00741_success_base00014.gif",
+    "xy": 2.85,
+    "z": 5.41,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 15,
+    "gif": "00741/00741_success_base00015.gif",
+    "xy": 3.15,
+    "z": 5.21,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 16,
+    "gif": "00741/00741_success_base00016.gif",
+    "xy": 2.98,
+    "z": 5.41,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 17,
+    "gif": "00741/00741_success_base00017.gif",
+    "xy": 3.34,
+    "z": 5.67,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 18,
+    "gif": "00741/00741_success_base00018.gif",
+    "xy": 3.03,
+    "z": 5.15,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 19,
+    "gif": "00741/00741_success_base00019.gif",
+    "xy": 3.09,
+    "z": 5.36,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 20,
+    "gif": "00741/00741_success_base00020.gif",
+    "xy": 3.13,
+    "z": 5.29,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 21,
+    "gif": "00741/00741_success_base00021.gif",
+    "xy": 3.11,
+    "z": 5.31,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 22,
+    "gif": "00741/00741_success_base00022.gif",
+    "xy": 3.29,
+    "z": 5.72,
+    "native": true
+  },
+  {
+    "task": "00741",
+    "base": 23,
+    "gif": "00741/00741_success_base00023.gif",
+    "xy": 3.23,
+    "z": 5.16,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 0,
+    "gif": "00768/00768_success_base00000.gif",
+    "xy": 6.03,
+    "z": 4.76,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 1,
+    "gif": "00768/00768_success_base00001.gif",
+    "xy": 6.12,
+    "z": 4.66,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 2,
+    "gif": "00768/00768_success_base00002.gif",
+    "xy": 6.14,
+    "z": 5.32,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 3,
+    "gif": "00768/00768_success_base00003.gif",
+    "xy": 5.79,
+    "z": 4.72,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 4,
+    "gif": "00768/00768_success_base00004.gif",
+    "xy": 6.1,
+    "z": 4.78,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 5,
+    "gif": "00768/00768_success_base00005.gif",
+    "xy": 6.54,
+    "z": 4.01,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 6,
+    "gif": "00768/00768_success_base00006.gif",
+    "xy": 5.83,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 7,
+    "gif": "00768/00768_success_base00007.gif",
+    "xy": 6.18,
+    "z": 6.13,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 8,
+    "gif": "00768/00768_success_base00008.gif",
+    "xy": 5.79,
+    "z": 6.38,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 9,
+    "gif": "00768/00768_success_base00009.gif",
+    "xy": 5.85,
+    "z": 5.67,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 10,
+    "gif": "00768/00768_success_base00010.gif",
+    "xy": 6.0,
+    "z": 4.24,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 11,
+    "gif": "00768/00768_success_base00011.gif",
+    "xy": 6.4,
+    "z": 4.2,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 12,
+    "gif": "00768/00768_success_base00012.gif",
+    "xy": 5.54,
+    "z": 4.04,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 13,
+    "gif": "00768/00768_success_base00013.gif",
+    "xy": 5.73,
+    "z": 4.35,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 14,
+    "gif": "00768/00768_success_base00014.gif",
+    "xy": 6.34,
+    "z": 5.34,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 15,
+    "gif": "00768/00768_success_base00015.gif",
+    "xy": 5.98,
+    "z": 4.68,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 16,
+    "gif": "00768/00768_success_base00016.gif",
+    "xy": 6.15,
+    "z": 4.91,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 17,
+    "gif": "00768/00768_success_base00017.gif",
+    "xy": 5.97,
+    "z": 3.64,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 18,
+    "gif": "00768/00768_success_base00018.gif",
+    "xy": 6.29,
+    "z": 4.72,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 19,
+    "gif": "00768/00768_success_base00019.gif",
+    "xy": 5.62,
+    "z": 4.72,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 20,
+    "gif": "00768/00768_success_base00020.gif",
+    "xy": 5.41,
+    "z": 5.04,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 21,
+    "gif": "00768/00768_success_base00021.gif",
+    "xy": 6.48,
+    "z": 5.41,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 22,
+    "gif": "00768/00768_success_base00022.gif",
+    "xy": 5.86,
+    "z": 5.21,
+    "native": true
+  },
+  {
+    "task": "00768",
+    "base": 23,
+    "gif": "00768/00768_success_base00023.gif",
+    "xy": 6.0,
+    "z": 5.86,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 0,
+    "gif": "00831/00831_success_base00000.gif",
+    "xy": 1.49,
+    "z": 0.66,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 1,
+    "gif": "00831/00831_success_base00001.gif",
+    "xy": 0.62,
+    "z": 0.94,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 4,
+    "gif": "00831/00831_success_base00004.gif",
+    "xy": 0.62,
+    "z": 2.42,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 5,
+    "gif": "00831/00831_success_base00005.gif",
+    "xy": 0.77,
+    "z": 0.76,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 6,
+    "gif": "00831/00831_success_base00006.gif",
+    "xy": 0.41,
+    "z": 1.91,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 7,
+    "gif": "00831/00831_success_base00007.gif",
+    "xy": 1.05,
+    "z": 2.57,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 10,
+    "gif": "00831/00831_success_base00010.gif",
+    "xy": 0.41,
+    "z": 0.75,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 12,
+    "gif": "00831/00831_success_base00012.gif",
+    "xy": 0.8,
+    "z": 0.43,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 14,
+    "gif": "00831/00831_success_base00014.gif",
+    "xy": 0.58,
+    "z": 0.58,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 15,
+    "gif": "00831/00831_success_base00015.gif",
+    "xy": 0.96,
+    "z": 2.24,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 16,
+    "gif": "00831/00831_success_base00016.gif",
+    "xy": 0.54,
+    "z": 1.6,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 19,
+    "gif": "00831/00831_success_base00019.gif",
+    "xy": 0.67,
+    "z": 1.94,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 21,
+    "gif": "00831/00831_success_base00021.gif",
+    "xy": 0.2,
+    "z": 1.51,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 22,
+    "gif": "00831/00831_success_base00022.gif",
+    "xy": 0.89,
+    "z": 0.99,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 23,
+    "gif": "00831/00831_success_base00023.gif",
+    "xy": 1.16,
+    "z": 1.13,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 24,
+    "gif": "00831/00831_success_base00024.gif",
+    "xy": 0.72,
+    "z": 1.44,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 26,
+    "gif": "00831/00831_success_base00026.gif",
+    "xy": 0.85,
+    "z": 1.24,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 27,
+    "gif": "00831/00831_success_base00027.gif",
+    "xy": 0.25,
+    "z": 0.56,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 28,
+    "gif": "00831/00831_success_base00028.gif",
+    "xy": 0.28,
+    "z": 2.57,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 29,
+    "gif": "00831/00831_success_base00029.gif",
+    "xy": 0.55,
+    "z": 2.24,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 30,
+    "gif": "00831/00831_success_base00030.gif",
+    "xy": 0.17,
+    "z": 0.7,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 32,
+    "gif": "00831/00831_success_base00032.gif",
+    "xy": 0.87,
+    "z": 2.21,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 33,
+    "gif": "00831/00831_success_base00033.gif",
+    "xy": 0.51,
+    "z": 2.46,
+    "native": true
+  },
+  {
+    "task": "00831",
+    "base": 34,
+    "gif": "00831/00831_success_base00034.gif",
+    "xy": 0.6,
+    "z": 1.42,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 0,
+    "gif": "00855/00855_success_base00000.gif",
+    "xy": 0.61,
+    "z": 7.09,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 1,
+    "gif": "00855/00855_success_base00001.gif",
+    "xy": 0.2,
+    "z": 7.13,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 2,
+    "gif": "00855/00855_success_base00002.gif",
+    "xy": 0.29,
+    "z": 6.97,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 3,
+    "gif": "00855/00855_success_base00003.gif",
+    "xy": 0.07,
+    "z": 7.01,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 4,
+    "gif": "00855/00855_success_base00004.gif",
+    "xy": 0.39,
+    "z": 6.47,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 5,
+    "gif": "00855/00855_success_base00005.gif",
+    "xy": 0.55,
+    "z": 5.41,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 6,
+    "gif": "00855/00855_success_base00006.gif",
+    "xy": 0.56,
+    "z": 6.24,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 7,
+    "gif": "00855/00855_success_base00007.gif",
+    "xy": 0.13,
+    "z": 6.68,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 8,
+    "gif": "00855/00855_success_base00008.gif",
+    "xy": 0.49,
+    "z": 7.12,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 9,
+    "gif": "00855/00855_success_base00009.gif",
+    "xy": 0.28,
+    "z": 7.18,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 10,
+    "gif": "00855/00855_success_base00010.gif",
+    "xy": 0.26,
+    "z": 6.87,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 11,
+    "gif": "00855/00855_success_base00011.gif",
+    "xy": 0.1,
+    "z": 8.84,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 12,
+    "gif": "00855/00855_success_base00012.gif",
+    "xy": 0.44,
+    "z": 6.19,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 13,
+    "gif": "00855/00855_success_base00013.gif",
+    "xy": 0.16,
+    "z": 6.89,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 14,
+    "gif": "00855/00855_success_base00014.gif",
+    "xy": 0.35,
+    "z": 7.69,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 15,
+    "gif": "00855/00855_success_base00015.gif",
+    "xy": 0.2,
+    "z": 6.56,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 17,
+    "gif": "00855/00855_success_base00017.gif",
+    "xy": 0.18,
+    "z": 6.98,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 18,
+    "gif": "00855/00855_success_base00018.gif",
+    "xy": 0.1,
+    "z": 7.66,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 19,
+    "gif": "00855/00855_success_base00019.gif",
+    "xy": 0.51,
+    "z": 7.19,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 20,
+    "gif": "00855/00855_success_base00020.gif",
+    "xy": 0.43,
+    "z": 7.82,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 21,
+    "gif": "00855/00855_success_base00021.gif",
+    "xy": 0.07,
+    "z": 8.35,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 22,
+    "gif": "00855/00855_success_base00022.gif",
+    "xy": 0.26,
+    "z": 7.9,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 23,
+    "gif": "00855/00855_success_base00023.gif",
+    "xy": 0.08,
+    "z": 7.01,
+    "native": true
+  },
+  {
+    "task": "00855",
+    "base": 24,
+    "gif": "00855/00855_success_base00024.gif",
+    "xy": 1.16,
+    "z": 7.5,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 0,
+    "gif": "01026/01026_success_base00000.gif",
+    "xy": 1.64,
+    "z": 9.55,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 1,
+    "gif": "01026/01026_success_base00001.gif",
+    "xy": 1.83,
+    "z": 10.75,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 2,
+    "gif": "01026/01026_success_base00002.gif",
+    "xy": 1.87,
+    "z": 9.75,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 3,
+    "gif": "01026/01026_success_base00003.gif",
+    "xy": 1.75,
+    "z": 11.83,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 4,
+    "gif": "01026/01026_success_base00004.gif",
+    "xy": 1.07,
+    "z": 10.04,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 5,
+    "gif": "01026/01026_success_base00005.gif",
+    "xy": 1.74,
+    "z": 9.8,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 6,
+    "gif": "01026/01026_success_base00006.gif",
+    "xy": 1.85,
+    "z": 10.29,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 7,
+    "gif": "01026/01026_success_base00007.gif",
+    "xy": 1.88,
+    "z": 9.04,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 8,
+    "gif": "01026/01026_success_base00008.gif",
+    "xy": 1.87,
+    "z": 8.0,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 9,
+    "gif": "01026/01026_success_base00009.gif",
+    "xy": 2.06,
+    "z": 7.94,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 10,
+    "gif": "01026/01026_success_base00010.gif",
+    "xy": 1.91,
+    "z": 9.92,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 11,
+    "gif": "01026/01026_success_base00011.gif",
+    "xy": 1.91,
+    "z": 10.61,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 12,
+    "gif": "01026/01026_success_base00012.gif",
+    "xy": 1.14,
+    "z": 10.4,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 13,
+    "gif": "01026/01026_success_base00013.gif",
+    "xy": 1.65,
+    "z": 10.27,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 14,
+    "gif": "01026/01026_success_base00014.gif",
+    "xy": 1.93,
+    "z": 9.85,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 15,
+    "gif": "01026/01026_success_base00015.gif",
+    "xy": 1.25,
+    "z": 9.57,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 16,
+    "gif": "01026/01026_success_base00016.gif",
+    "xy": 1.92,
+    "z": 8.72,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 17,
+    "gif": "01026/01026_success_base00017.gif",
+    "xy": 1.59,
+    "z": 11.1,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 18,
+    "gif": "01026/01026_success_base00018.gif",
+    "xy": 1.78,
+    "z": 8.24,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 19,
+    "gif": "01026/01026_success_base00019.gif",
+    "xy": 1.2,
+    "z": 8.25,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 20,
+    "gif": "01026/01026_success_base00020.gif",
+    "xy": 1.84,
+    "z": 6.15,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 21,
+    "gif": "01026/01026_success_base00021.gif",
+    "xy": 1.75,
+    "z": 10.45,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 22,
+    "gif": "01026/01026_success_base00022.gif",
+    "xy": 1.93,
+    "z": 10.75,
+    "native": true
+  },
+  {
+    "task": "01026",
+    "base": 23,
+    "gif": "01026/01026_success_base00023.gif",
+    "xy": 1.37,
+    "z": 8.82,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 0,
+    "gif": "01092/01092_success_base00000.gif",
+    "xy": 0.12,
+    "z": 7.18,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 1,
+    "gif": "01092/01092_success_base00001.gif",
+    "xy": 0.41,
+    "z": 7.68,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 2,
+    "gif": "01092/01092_success_base00002.gif",
+    "xy": 0.4,
+    "z": 7.16,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 3,
+    "gif": "01092/01092_success_base00003.gif",
+    "xy": 0.37,
+    "z": 6.99,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 4,
+    "gif": "01092/01092_success_base00004.gif",
+    "xy": 0.26,
+    "z": 7.78,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 5,
+    "gif": "01092/01092_success_base00005.gif",
+    "xy": 0.4,
+    "z": 5.43,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 6,
+    "gif": "01092/01092_success_base00006.gif",
+    "xy": 0.39,
+    "z": 7.82,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 7,
+    "gif": "01092/01092_success_base00007.gif",
+    "xy": 0.26,
+    "z": 7.81,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 8,
+    "gif": "01092/01092_success_base00008.gif",
+    "xy": 0.48,
+    "z": 5.7,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 9,
+    "gif": "01092/01092_success_base00009.gif",
+    "xy": 0.56,
+    "z": 6.85,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 10,
+    "gif": "01092/01092_success_base00010.gif",
+    "xy": 0.44,
+    "z": 7.87,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 11,
+    "gif": "01092/01092_success_base00011.gif",
+    "xy": 0.35,
+    "z": 7.37,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 13,
+    "gif": "01092/01092_success_base00013.gif",
+    "xy": 0.46,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 14,
+    "gif": "01092/01092_success_base00014.gif",
+    "xy": 0.43,
+    "z": 6.54,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 16,
+    "gif": "01092/01092_success_base00016.gif",
+    "xy": 0.64,
+    "z": 7.72,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 18,
+    "gif": "01092/01092_success_base00018.gif",
+    "xy": 0.4,
+    "z": 5.89,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 19,
+    "gif": "01092/01092_success_base00019.gif",
+    "xy": 0.63,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 21,
+    "gif": "01092/01092_success_base00021.gif",
+    "xy": 0.04,
+    "z": 7.28,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 22,
+    "gif": "01092/01092_success_base00022.gif",
+    "xy": 0.37,
+    "z": 7.75,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 23,
+    "gif": "01092/01092_success_base00023.gif",
+    "xy": 0.41,
+    "z": 7.38,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 24,
+    "gif": "01092/01092_success_base00024.gif",
+    "xy": 0.27,
+    "z": 7.48,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 27,
+    "gif": "01092/01092_success_base00027.gif",
+    "xy": 0.47,
+    "z": 5.6,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 28,
+    "gif": "01092/01092_success_base00028.gif",
+    "xy": 0.61,
+    "z": 7.95,
+    "native": true
+  },
+  {
+    "task": "01092",
+    "base": 29,
+    "gif": "01092/01092_success_base00029.gif",
+    "xy": 0.44,
+    "z": 6.24,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 0,
+    "gif": "01102/01102_success_base00000.gif",
+    "xy": 0.3,
+    "z": 5.04,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 1,
+    "gif": "01102/01102_success_base00001.gif",
+    "xy": 0.84,
+    "z": 6.82,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 2,
+    "gif": "01102/01102_success_base00002.gif",
+    "xy": 0.73,
+    "z": 7.04,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 3,
+    "gif": "01102/01102_success_base00003.gif",
+    "xy": 0.5,
+    "z": 5.97,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 4,
+    "gif": "01102/01102_success_base00004.gif",
+    "xy": 0.45,
+    "z": 6.23,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 5,
+    "gif": "01102/01102_success_base00005.gif",
+    "xy": 0.9,
+    "z": 6.96,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 7,
+    "gif": "01102/01102_success_base00007.gif",
+    "xy": 0.4,
+    "z": 6.81,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 8,
+    "gif": "01102/01102_success_base00008.gif",
+    "xy": 0.46,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 9,
+    "gif": "01102/01102_success_base00009.gif",
+    "xy": 0.42,
+    "z": 7.15,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 10,
+    "gif": "01102/01102_success_base00010.gif",
+    "xy": 0.89,
+    "z": 6.27,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 11,
+    "gif": "01102/01102_success_base00011.gif",
+    "xy": 0.08,
+    "z": 7.3,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 12,
+    "gif": "01102/01102_success_base00012.gif",
+    "xy": 0.48,
+    "z": 5.7,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 14,
+    "gif": "01102/01102_success_base00014.gif",
+    "xy": 0.49,
+    "z": 7.48,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 15,
+    "gif": "01102/01102_success_base00015.gif",
+    "xy": 0.68,
+    "z": 6.23,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 16,
+    "gif": "01102/01102_success_base00016.gif",
+    "xy": 0.31,
+    "z": 6.79,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 17,
+    "gif": "01102/01102_success_base00017.gif",
+    "xy": 0.63,
+    "z": 6.67,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 18,
+    "gif": "01102/01102_success_base00018.gif",
+    "xy": 0.46,
+    "z": 6.25,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 20,
+    "gif": "01102/01102_success_base00020.gif",
+    "xy": 0.84,
+    "z": 5.98,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 21,
+    "gif": "01102/01102_success_base00021.gif",
+    "xy": 0.69,
+    "z": 6.03,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 22,
+    "gif": "01102/01102_success_base00022.gif",
+    "xy": 1.05,
+    "z": 6.75,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 23,
+    "gif": "01102/01102_success_base00023.gif",
+    "xy": 0.57,
+    "z": 7.25,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 24,
+    "gif": "01102/01102_success_base00024.gif",
+    "xy": 0.7,
+    "z": 5.72,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 25,
+    "gif": "01102/01102_success_base00025.gif",
+    "xy": 1.15,
+    "z": 6.68,
+    "native": true
+  },
+  {
+    "task": "01102",
+    "base": 26,
+    "gif": "01102/01102_success_base00026.gif",
+    "xy": 0.26,
+    "z": 6.98,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 0,
+    "gif": "01125/01125_success_base00000.gif",
+    "xy": 0.21,
+    "z": 4.25,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 1,
+    "gif": "01125/01125_success_base00001.gif",
+    "xy": 0.07,
+    "z": 6.07,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 2,
+    "gif": "01125/01125_success_base00002.gif",
+    "xy": 0.53,
+    "z": 5.08,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 3,
+    "gif": "01125/01125_success_base00003.gif",
+    "xy": 1.23,
+    "z": 4.41,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 4,
+    "gif": "01125/01125_success_base00004.gif",
+    "xy": 0.22,
+    "z": 4.09,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 5,
+    "gif": "01125/01125_success_base00005.gif",
+    "xy": 0.19,
+    "z": 4.59,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 6,
+    "gif": "01125/01125_success_base00006.gif",
+    "xy": 0.25,
+    "z": 5.02,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 7,
+    "gif": "01125/01125_success_base00007.gif",
+    "xy": 0.64,
+    "z": 4.43,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 8,
+    "gif": "01125/01125_success_base00008.gif",
+    "xy": 0.72,
+    "z": 3.56,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 9,
+    "gif": "01125/01125_success_base00009.gif",
+    "xy": 0.52,
+    "z": 4.23,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 10,
+    "gif": "01125/01125_success_base00010.gif",
+    "xy": 0.23,
+    "z": 3.98,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 11,
+    "gif": "01125/01125_success_base00011.gif",
+    "xy": 0.41,
+    "z": 4.67,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 12,
+    "gif": "01125/01125_success_base00012.gif",
+    "xy": 0.92,
+    "z": 5.3,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 13,
+    "gif": "01125/01125_success_base00013.gif",
+    "xy": 0.13,
+    "z": 4.5,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 14,
+    "gif": "01125/01125_success_base00014.gif",
+    "xy": 0.12,
+    "z": 4.55,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 15,
+    "gif": "01125/01125_success_base00015.gif",
+    "xy": 0.59,
+    "z": 3.79,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 16,
+    "gif": "01125/01125_success_base00016.gif",
+    "xy": 0.23,
+    "z": 4.0,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 17,
+    "gif": "01125/01125_success_base00017.gif",
+    "xy": 0.22,
+    "z": 5.29,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 18,
+    "gif": "01125/01125_success_base00018.gif",
+    "xy": 0.52,
+    "z": 4.67,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 19,
+    "gif": "01125/01125_success_base00019.gif",
+    "xy": 0.28,
+    "z": 5.09,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 20,
+    "gif": "01125/01125_success_base00020.gif",
+    "xy": 0.46,
+    "z": 3.84,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 21,
+    "gif": "01125/01125_success_base00021.gif",
+    "xy": 0.58,
+    "z": 4.3,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 22,
+    "gif": "01125/01125_success_base00022.gif",
+    "xy": 0.51,
+    "z": 5.37,
+    "native": true
+  },
+  {
+    "task": "01125",
+    "base": 23,
+    "gif": "01125/01125_success_base00023.gif",
+    "xy": 0.41,
+    "z": 5.79,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 0,
+    "gif": "01136/01136_success_base00000.gif",
+    "xy": 0.79,
+    "z": 7.51,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 1,
+    "gif": "01136/01136_success_base00001.gif",
+    "xy": 1.36,
+    "z": 7.47,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 2,
+    "gif": "01136/01136_success_base00002.gif",
+    "xy": 1.34,
+    "z": 4.31,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 3,
+    "gif": "01136/01136_success_base00003.gif",
+    "xy": 0.9,
+    "z": 6.05,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 4,
+    "gif": "01136/01136_success_base00004.gif",
+    "xy": 0.45,
+    "z": 7.92,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 5,
+    "gif": "01136/01136_success_base00005.gif",
+    "xy": 0.57,
+    "z": 7.28,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 6,
+    "gif": "01136/01136_success_base00006.gif",
+    "xy": 0.59,
+    "z": 5.44,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 7,
+    "gif": "01136/01136_success_base00007.gif",
+    "xy": 0.92,
+    "z": 5.38,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 8,
+    "gif": "01136/01136_success_base00008.gif",
+    "xy": 0.85,
+    "z": 6.9,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 9,
+    "gif": "01136/01136_success_base00009.gif",
+    "xy": 1.25,
+    "z": 5.25,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 10,
+    "gif": "01136/01136_success_base00010.gif",
+    "xy": 0.69,
+    "z": 6.86,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 11,
+    "gif": "01136/01136_success_base00011.gif",
+    "xy": 0.35,
+    "z": 5.94,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 12,
+    "gif": "01136/01136_success_base00012.gif",
+    "xy": 0.86,
+    "z": 4.33,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 13,
+    "gif": "01136/01136_success_base00013.gif",
+    "xy": 0.45,
+    "z": 5.3,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 14,
+    "gif": "01136/01136_success_base00014.gif",
+    "xy": 0.71,
+    "z": 6.88,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 15,
+    "gif": "01136/01136_success_base00015.gif",
+    "xy": 1.44,
+    "z": 7.61,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 16,
+    "gif": "01136/01136_success_base00016.gif",
+    "xy": 0.53,
+    "z": 7.09,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 17,
+    "gif": "01136/01136_success_base00017.gif",
+    "xy": 1.34,
+    "z": 6.76,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 18,
+    "gif": "01136/01136_success_base00018.gif",
+    "xy": 1.65,
+    "z": 7.62,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 19,
+    "gif": "01136/01136_success_base00019.gif",
+    "xy": 1.88,
+    "z": 5.8,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 20,
+    "gif": "01136/01136_success_base00020.gif",
+    "xy": 1.33,
+    "z": 7.56,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 21,
+    "gif": "01136/01136_success_base00021.gif",
+    "xy": 1.11,
+    "z": 6.58,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 22,
+    "gif": "01136/01136_success_base00022.gif",
+    "xy": 0.32,
+    "z": 5.89,
+    "native": true
+  },
+  {
+    "task": "01136",
+    "base": 23,
+    "gif": "01136/01136_success_base00023.gif",
+    "xy": 0.46,
+    "z": 6.91,
+    "native": true
+  }
+]
